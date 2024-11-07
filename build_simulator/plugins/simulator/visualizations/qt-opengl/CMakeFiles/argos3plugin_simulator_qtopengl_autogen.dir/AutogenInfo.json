@@ -1,0 +1,267 @@
+{
+	"BUILD_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/visualizations/qt-opengl/argos3plugin_simulator_qtopengl_autogen",
+	"CMAKE_BINARY_DIR" : "/home/amealmazan/src/argos3/build_simulator",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/visualizations/qt-opengl",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/amealmazan/src/argos3/src",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_application.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_application.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_box.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_box.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_camera.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_camera.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_cylinder.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_cylinder.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_light.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_light.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_log_stream.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_log_stream.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_editor.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_lua_editor.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_find_dialog.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_lua_find_dialog.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_main_window.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_lua_main_window.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_statetree_item.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_lua_statetree_item.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_statetree_model.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_lua_statetree_model.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_syntax_highlighter.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_lua_syntax_highlighter.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_main_window.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_main_window.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_obj_model.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_obj_model.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_render.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_render.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_user_functions.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_user_functions.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_widget.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtopengl_widget.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/visualizations/qt-opengl/argos3plugin_simulator_qtopengl_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/visualizations/qt-opengl/argos3plugin_simulator_qtopengl_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"ARGOS_simulator_BUILD",
+		"GL_SILENCE_DEPRECATION",
+		"HAVE_PTHREAD_H",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"argos3plugin_simulator_qtopengl_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/amealmazan/src/argos3/build_simulator/plugins/simulator/visualizations/qt-opengl",
+		"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl",
+		"/home/amealmazan/src/argos3/src",
+		"/home/amealmazan/src/argos3/build_simulator",
+		"/usr/include/lua5.3",
+		"/usr/include/Headers",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/visualizations/qt-opengl/argos3plugin_simulator_qtopengl_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/visualizations/qt-opengl/CMakeFiles/argos3plugin_simulator_qtopengl_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/visualizations/qt-opengl/CMakeFiles/argos3plugin_simulator_qtopengl_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_application.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_box.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_camera.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_cylinder.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_light.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_editor.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_find_dialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_main_window.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_statetree_item.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_statetree_model.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_lua_syntax_highlighter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_main_window.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_obj_model.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_render.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_user_functions.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/visualizations/qt-opengl/qtopengl_widget.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+<meta name="generator" content="AsciiDoc 10.1.2" />
+<title>ARGoS README</title>
+<style type="text/css">
+/* Shared CSS for AsciiDoc xhtml11 and html5 backends */
+
+/* Default font. */
+body {
+  font-family: Georgia,serif;
+}
+
+/* Title font. */
+h1, h2, h3, h4, h5, h6,
+div.title, caption.title,
+thead, p.table.header,
+#toctitle,
+#author, #revnumber, #revdate, #revremark,
+#footer {
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+body {
+  margin: 1em 5% 1em 5%;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+a:visited {
+  color: fuchsia;
+}
+
+em {
+  font-style: italic;
+  color: navy;
+}
+
+strong {
+  font-weight: bold;
+  color: #083194;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #527bbd;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+  line-height: 1.3;
+}
+
+h1, h2, h3 {
+  border-bottom: 2px solid silver;
+}
+h2 {
+  padding-top: 0.5em;
+}
+h3 {
+  float: left;
+}
+h3 + * {
+  clear: left;
+}
+h5 {
+  font-size: 1.0em;
+}
+
+div.sectionbody {
+  margin-left: 0;
+}
+
+hr {
+  border: 1px solid silver;
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+ul, ol, li > p {
+  margin-top: 0;
+}
+ul > li     { color: #aaa; }
+ul > li > * { color: black; }
+
+.monospaced, code, pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: inherit;
+  color: navy;
+  padding: 0;
+  margin: 0;
+}
+pre {
+  white-space: pre-wrap;
+}
+
+#author {
+  color: #527bbd;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+#email {
+}
+#revnumber, #revdate, #revremark {
+}
+
+#footer {
+  font-size: small;
+  border-top: 2px solid silver;
+  padding-top: 0.5em;
+  margin-top: 4.0em;
+}
+#footer-text {
+  float: left;
+  padding-bottom: 0.5em;
+}
+#footer-badges {
+  float: right;
+  padding-bottom: 0.5em;
+}
+
+#preamble {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+div.imageblock, div.exampleblock, div.verseblock,
+div.quoteblock, div.literalblock, div.listingblock, div.sidebarblock,
+div.admonitionblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+div.admonitionblock {
+  margin-top: 2.0em;
+  margin-bottom: 2.0em;
+  margin-right: 10%;
+  color: #606060;
+}
+
+div.content { /* Block element content. */
+  padding: 0;
+}
+
+/* Block element titles. */
+div.title, caption.title {
+  color: #527bbd;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+}
+div.title + * {
+  margin-top: 0;
+}
+
+td div.title:first-child {
+  margin-top: 0.0em;
+}
+div.content div.title:first-child {
+  margin-top: 0.0em;
+}
+div.content + div.title {
+  margin-top: 0.0em;
+}
+
+div.sidebarblock > div.content {
+  background: #ffffee;
+  border: 1px solid #dddddd;
+  border-left: 4px solid #f0f0f0;
+  padding: 0.5em;
+}
+
+div.listingblock > div.content {
+  border: 1px solid #dddddd;
+  border-left: 5px solid #f0f0f0;
+  background: #f8f8f8;
+  padding: 0.5em;
+}
+
+div.quoteblock, div.verseblock {
+  padding-left: 1.0em;
+  margin-left: 1.0em;
+  margin-right: 10%;
+  border-left: 5px solid #f0f0f0;
+  color: #888;
+}
+
+div.quoteblock > div.attribution {
+  padding-top: 0.5em;
+  text-align: right;
+}
+
+div.verseblock > pre.content {
+  font-family: inherit;
+  font-size: inherit;
+}
+div.verseblock > div.attribution {
+  padding-top: 0.75em;
+  text-align: left;
+}
+/* DEPRECATED: Pre version 8.2.7 verse style literal block. */
+div.verseblock + div.attribution {
+  text-align: left;
+}
+
+div.admonitionblock .icon {
+  vertical-align: top;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #527bbd;
+  padding-right: 0.5em;
+}
+div.admonitionblock td.content {
+  padding-left: 0.5em;
+  border-left: 3px solid #dddddd;
+}
+
+div.exampleblock > div.content {
+  border-left: 3px solid #dddddd;
+  padding-left: 0.5em;
+}
+
+div.imageblock div.content { padding-left: 0; }
+span.image img { border-style: none; vertical-align: text-bottom; }
+a.image:visited { color: white; }
+
+dl {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+dt {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  font-style: normal;
+  color: navy;
+}
+dd > *:first-child {
+  margin-top: 0.1em;
+}
+
+ul, ol {
+    list-style-position: outside;
+}
+ol.arabic {
+  list-style-type: decimal;
+}
+ol.loweralpha {
+  list-style-type: lower-alpha;
+}
+ol.upperalpha {
+  list-style-type: upper-alpha;
+}
+ol.lowerroman {
+  list-style-type: lower-roman;
+}
+ol.upperroman {
+  list-style-type: upper-roman;
+}
+
+div.compact ul, div.compact ol,
+div.compact p, div.compact p,
+div.compact div, div.compact div {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+tfoot {
+  font-weight: bold;
+}
+td > div.verse {
+  white-space: pre;
+}
+
+div.hdlist {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+div.hdlist tr {
+  padding-bottom: 15px;
+}
+dt.hdlist1.strong, td.hdlist1.strong {
+  font-weight: bold;
+}
+td.hdlist1 {
+  vertical-align: top;
+  font-style: normal;
+  padding-right: 0.8em;
+  color: navy;
+}
+td.hdlist2 {
+  vertical-align: top;
+}
+div.hdlist.compact tr {
+  margin: 0;
+  padding-bottom: 0;
+}
+
+.comment {
+  background: yellow;
+}
+
+.footnote, .footnoteref {
+  font-size: 0.8em;
+}
+
+span.footnote, span.footnoteref {
+  vertical-align: super;
+}
+
+#footnotes {
+  margin: 20px 0 20px 0;
+  padding: 7px 0 0 0;
+}
+
+#footnotes div.footnote {
+  margin: 0 0 5px 0;
+}
+
+#footnotes hr {
+  border: none;
+  border-top: 1px solid silver;
+  height: 1px;
+  text-align: left;
+  margin-left: 0;
+  width: 20%;
+  min-width: 100px;
+}
+
+div.colist td {
+  padding-right: 0.5em;
+  padding-bottom: 0.3em;
+  vertical-align: top;
+}
+div.colist td img {
+  margin-top: 0.3em;
+}
+
+@media print {
+  #footer-badges { display: none; }
+}
+
+#toc {
+  margin-bottom: 2.5em;
+}
+
+#toctitle {
+  color: #527bbd;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.0em;
+  margin-bottom: 0.1em;
+}
+
+div.toclevel0, div.toclevel1, div.toclevel2, div.toclevel3, div.toclevel4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+div.toclevel2 {
+  margin-left: 2em;
+  font-size: 0.9em;
+}
+div.toclevel3 {
+  margin-left: 4em;
+  font-size: 0.9em;
+}
+div.toclevel4 {
+  margin-left: 6em;
+  font-size: 0.9em;
+}
+
+span.aqua { color: aqua; }
+span.black { color: black; }
+span.blue { color: blue; }
+span.fuchsia { color: fuchsia; }
+span.gray { color: gray; }
+span.green { color: green; }
+span.lime { color: lime; }
+span.maroon { color: maroon; }
+span.navy { color: navy; }
+span.olive { color: olive; }
+span.purple { color: purple; }
+span.red { color: red; }
+span.silver { color: silver; }
+span.teal { color: teal; }
+span.white { color: white; }
+span.yellow { color: yellow; }
+
+span.aqua-background { background: aqua; }
+span.black-background { background: black; }
+span.blue-background { background: blue; }
+span.fuchsia-background { background: fuchsia; }
+span.gray-background { background: gray; }
+span.green-background { background: green; }
+span.lime-background { background: lime; }
+span.maroon-background { background: maroon; }
+span.navy-background { background: navy; }
+span.olive-background { background: olive; }
+span.purple-background { background: purple; }
+span.red-background { background: red; }
+span.silver-background { background: silver; }
+span.teal-background { background: teal; }
+span.white-background { background: white; }
+span.yellow-background { background: yellow; }
+
+span.big { font-size: 2em; }
+span.small { font-size: 0.6em; }
+
+span.underline { text-decoration: underline; }
+span.overline { text-decoration: overline; }
+span.line-through { text-decoration: line-through; }
+
+div.unbreakable { page-break-inside: avoid; }
+
+
+/*
+ * xhtml11 specific
+ *
+ * */
+
+div.tableblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+div.tableblock > table {
+  border: 3px solid #527bbd;
+}
+thead, p.table.header {
+  font-weight: bold;
+  color: #527bbd;
+}
+p.table {
+  margin-top: 0;
+}
+/* Because the table frame attribute is overridden by CSS in most browsers. */
+div.tableblock > table[frame="void"] {
+  border-style: none;
+}
+div.tableblock > table[frame="hsides"] {
+  border-left-style: none;
+  border-right-style: none;
+}
+div.tableblock > table[frame="vsides"] {
+  border-top-style: none;
+  border-bottom-style: none;
+}
+
+
+/*
+ * html5 specific
+ *
+ * */
+
+table.tableblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+thead, p.tableblock.header {
+  font-weight: bold;
+  color: #527bbd;
+}
+p.tableblock {
+  margin-top: 0;
+}
+table.tableblock {
+  border-width: 3px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-color: #527bbd;
+  border-collapse: collapse;
+}
+th.tableblock, td.tableblock {
+  border-width: 1px;
+  padding: 4px;
+  border-style: solid;
+  border-color: #527bbd;
+}
+
+table.tableblock.frame-topbot {
+  border-left-style: hidden;
+  border-right-style: hidden;
+}
+table.tableblock.frame-sides {
+  border-top-style: hidden;
+  border-bottom-style: hidden;
+}
+table.tableblock.frame-none {
+  border-style: hidden;
+}
+
+th.tableblock.halign-left, td.tableblock.halign-left {
+  text-align: left;
+}
+th.tableblock.halign-center, td.tableblock.halign-center {
+  text-align: center;
+}
+th.tableblock.halign-right, td.tableblock.halign-right {
+  text-align: right;
+}
+
+th.tableblock.valign-top, td.tableblock.valign-top {
+  vertical-align: top;
+}
+th.tableblock.valign-middle, td.tableblock.valign-middle {
+  vertical-align: middle;
+}
+th.tableblock.valign-bottom, td.tableblock.valign-bottom {
+  vertical-align: bottom;
+}
+
+
+/*
+ * manpage specific
+ *
+ * */
+
+body.manpage h1 {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border-top: 2px solid silver;
+  border-bottom: 2px solid silver;
+}
+body.manpage h2 {
+  border-style: none;
+}
+body.manpage div.sectionbody {
+  margin-left: 3em;
+}
+
+@media print {
+  body.manpage div#toc { display: none; }
+}
+
+
+</style>
+<script type="text/javascript">
+/*<![CDATA[*/
+var asciidoc = {  // Namespace.
+
+/////////////////////////////////////////////////////////////////////
+// Table Of Contents generator
+/////////////////////////////////////////////////////////////////////
+
+/* Author: Mihai Bazon, September 2002
+ * http://students.infoiasi.ro/~mishoo
+ *
+ * Table Of Content generator
+ * Version: 0.4
+ *
+ * Feel free to use this script under the terms of the GNU General Public
+ * License, as long as you do not remove or alter this notice.
+ */
+
+ /* modified by Troy D. Hanson, September 2006. License: GPL */
+ /* modified by Stuart Rackham, 2006, 2009. License: GPL */
+
+// toclevels = 1..4.
+toc: function (toclevels) {
+
+  function getText(el) {
+    var text = "";
+    for (var i = el.firstChild; i != null; i = i.nextSibling) {
+      if (i.nodeType == 3 /* Node.TEXT_NODE */) // IE doesn't speak constants.
+        text += i.data;
+      else if (i.firstChild != null)
+        text += getText(i);
+    }
+    return text;
+  }
+
+  function TocEntry(el, text, toclevel) {
+    this.element = el;
+    this.text = text;
+    this.toclevel = toclevel;
+  }
+
+  function tocEntries(el, toclevels) {
+    var result = new Array;
+    var re = new RegExp('[hH]([1-'+(toclevels+1)+'])');
+    // Function that scans the DOM tree for header elements (the DOM2
+    // nodeIterator API would be a better technique but not supported by all
+    // browsers).
+    var iterate = function (el) {
+      for (var i = el.firstChild; i != null; i = i.nextSibling) {
+        if (i.nodeType == 1 /* Node.ELEMENT_NODE */) {
+          var mo = re.exec(i.tagName);
+          if (mo && (i.getAttribute("class") || i.getAttribute("className")) != "float") {
+            result[result.length] = new TocEntry(i, getText(i), mo[1]-1);
+          }
+          iterate(i);
+        }
+      }
+    }
+    iterate(el);
+    return result;
+  }
+
+  var toc = document.getElementById("toc");
+  if (!toc) {
+    return;
+  }
+
+  // Delete existing TOC entries in case we're reloading the TOC.
+  var tocEntriesToRemove = [];
+  var i;
+  for (i = 0; i < toc.childNodes.length; i++) {
+    var entry = toc.childNodes[i];
+    if (entry.nodeName.toLowerCase() == 'div'
+     && entry.getAttribute("class")
+     && entry.getAttribute("class").match(/^toclevel/))
+      tocEntriesToRemove.push(entry);
+  }
+  for (i = 0; i < tocEntriesToRemove.length; i++) {
+    toc.removeChild(tocEntriesToRemove[i]);
+  }
+
+  // Rebuild TOC entries.
+  var entries = tocEntries(document.getElementById("content"), toclevels);
+  for (var i = 0; i < entries.length; ++i) {
+    var entry = entries[i];
+    if (entry.element.id == "")
+      entry.element.id = "_toc_" + i;
+    var a = document.createElement("a");
+    a.href = "#" + entry.element.id;
+    a.appendChild(document.createTextNode(entry.text));
+    var div = document.createElement("div");
+    div.appendChild(a);
+    div.className = "toclevel" + entry.toclevel;
+    toc.appendChild(div);
+  }
+  if (entries.length == 0)
+    toc.parentNode.removeChild(toc);
+},
+
+
+/////////////////////////////////////////////////////////////////////
+// Footnotes generator
+/////////////////////////////////////////////////////////////////////
+
+/* Based on footnote generation code from:
+ * http://www.brandspankingnew.net/archive/2005/07/format_footnote.html
+ */
+
+footnotes: function () {
+  // Delete existing footnote entries in case we're reloading the footnodes.
+  var i;
+  var noteholder = document.getElementById("footnotes");
+  if (!noteholder) {
+    return;
+  }
+  var entriesToRemove = [];
+  for (i = 0; i < noteholder.childNodes.length; i++) {
+    var entry = noteholder.childNodes[i];
+    if (entry.nodeName.toLowerCase() == 'div' && entry.getAttribute("class") == "footnote")
+      entriesToRemove.push(entry);
+  }
+  for (i = 0; i < entriesToRemove.length; i++) {
+    noteholder.removeChild(entriesToRemove[i]);
+  }
+
+  // Rebuild footnote entries.
+  var cont = document.getElementById("content");
+  var spans = cont.getElementsByTagName("span");
+  var refs = {};
+  var n = 0;
+  for (i=0; i<spans.length; i++) {
+    if (spans[i].className == "footnote") {
+      n++;
+      var note = spans[i].getAttribute("data-note");
+      if (!note) {
+        // Use [\s\S] in place of . so multi-line matches work.
+        // Because JavaScript has no s (dotall) regex flag.
+        note = spans[i].innerHTML.match(/\s*\[([\s\S]*)]\s*/)[1];
+        spans[i].innerHTML =
+          "[<a id='_footnoteref_" + n + "' href='#_footnote_" + n +
+          "' title='View footnote' class='footnote'>" + n + "</a>]";
+        spans[i].setAttribute("data-note", note);
+      }
+      noteholder.innerHTML +=
+        "<div class='footnote' id='_footnote_" + n + "'>" +
+        "<a href='#_footnoteref_" + n + "' title='Return to text'>" +
+        n + "</a>. " + note + "</div>";
+      var id =spans[i].getAttribute("id");
+      if (id != null) refs["#"+id] = n;
+    }
+  }
+  if (n == 0)
+    noteholder.parentNode.removeChild(noteholder);
+  else {
+    // Process footnoterefs.
+    for (i=0; i<spans.length; i++) {
+      if (spans[i].className == "footnoteref") {
+        var href = spans[i].getElementsByTagName("a")[0].getAttribute("href");
+        href = href.match(/#.*/)[0];  // Because IE return full URL.
+        n = refs[href];
+        spans[i].innerHTML =
+          "[<a href='#_footnote_" + n +
+          "' title='View footnote' class='footnote'>" + n + "</a>]";
+      }
+    }
+  }
+},
+
+install: function(toclevels) {
+  var timerId;
+
+  function reinstall() {
+    asciidoc.footnotes();
+    if (toclevels) {
+      asciidoc.toc(toclevels);
+    }
+  }
+
+  function reinstallAndRemoveTimer() {
+    clearInterval(timerId);
+    reinstall();
+  }
+
+  timerId = setInterval(reinstall, 500);
+  if (document.addEventListener)
+    document.addEventListener("DOMContentLoaded", reinstallAndRemoveTimer, false);
+  else
+    window.onload = reinstallAndRemoveTimer;
+}
+
+}
+asciidoc.install();
+/*]]>*/
+</script>
+</head>
+<body class="article">
+<div id="header">
+<h1>ARGoS README</h1>
+<span id="author">Carlo Pinciroli</span><br />
+<span id="email"><code>&lt;<a href="mailto:ilpincy@gmail.com">ilpincy@gmail.com</a>&gt;</code></span><br />
+<span id="revdate">November 26th, 2019</span>
+</div>
+<div id="content">
+<div class="sect1">
+<h2 id="_what_is_argos">1. What is ARGoS?</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>ARGoS is a physics-based simulator designed to simulate large-scale robot
+swarms. Benchmark results show that ARGoS can perform physics-accurate
+simulation involving thousands of robots in a fraction of real time.
+ARGoS' main features are:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Multi-threaded and deeply modular architecture, more flexible than any
+  simulator with equivalent features;
+</p>
+</li>
+<li>
+<p>
+The possibility to run multiple physics engines at the same time;
+</p>
+</li>
+<li>
+<p>
+The possibility to divide the physical space in region, and assign different
+  regions to different physics engines.
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>Starting from version 3, ARGoS is released under the terms of the MIT license.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_downloading_argos">2. Downloading ARGoS</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>You can download a binary package of ARGoS from
+<a href="http://www.argos-sim.info/download.php">http://www.argos-sim.info/download.php</a>. Alternatively, you
+can download the development sources through git:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ git clone https://github.com/ilpincy/argos3.git argos3</code></pre>
+</div></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_compiling_argos">3. Compiling ARGoS</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_requirements">3.1. Requirements</h3>
+<div class="paragraph"><p>If you downloaded the sources of ARGoS and want to compile its code, you need:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+A UNIX system (Linux or MacOSX; Microsoft Windows is not supported)
+</p>
+</li>
+<li>
+<p>
+<em>g++</em> &gt;= 5.4 (on Linux)
+</p>
+</li>
+<li>
+<p>
+<em>clang</em> &gt;= 3.1 (on MacOSX)
+</p>
+</li>
+<li>
+<p>
+<em>cmake</em> &gt;= 3.5.1
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>If you want to compile the simulator, you need:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+<em>FreeImage</em> &gt;= 3.15
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>The OpenGL-based graphical visualization is compiled only if the following
+libraries are found:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+<em>Qt</em> &gt;= 5.5
+</p>
+</li>
+<li>
+<p>
+<em>freeglut</em> &gt;= 2.6.0
+</p>
+</li>
+<li>
+<p>
+<em>libxi-dev</em> (on Ubuntu and other Debian-based systems)
+</p>
+</li>
+<li>
+<p>
+<em>libxmu-dev</em> (on Ubuntu and other Debian-based systems)
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>If you want to create the Lua wrapper you need:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+<em>lua</em> == 5.3
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>If you want to create the documentation you need:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+To create the API:
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<em>Doxygen</em> &gt;= 1.7.3
+</p>
+</li>
+<li>
+<p>
+<em>Graphviz/dot</em> &gt;= 2.28
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+To create the HTML version of this README:
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+<em>asciidoc</em> &gt;= 8.6.2
+</p>
+</li>
+</ul></div>
+</li>
+</ul></div>
+<div class="sect3">
+<h4 id="_debian">3.1.1. Debian</h4>
+<div class="paragraph"><p>On Debian, you can install all of the necessary requirements
+with the following command:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ sudo apt-get install cmake libfreeimage-dev libfreeimageplus-dev \
+  qt5-default freeglut3-dev libxi-dev libxmu-dev liblua5.3-dev \
+  lua5.3 doxygen graphviz libgraphviz-dev asciidoc</code></pre>
+</div></div>
+</div>
+<div class="sect3">
+<h4 id="_opensuse">3.1.2. OpenSuse</h4>
+<div class="paragraph"><p>On openSUSE 13.2, you can install all of the necessary requirements
+with the following commands:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ sudo zypper ar -n openSUSE-13.2-Graphics \
+  http://download.opensuse.org/repositories/graphics/openSUSE_13.2/ \
+  graphics</code></pre>
+</div></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ sudo zypper refresh</code></pre>
+</div></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ sudo zypper install git cmake gcc gcc-c++ freeimage-devel \
+  doxygen graphviz asciidoc lua-devel libqt5-qtbase freeglut-devel \
+  rpmbuild</code></pre>
+</div></div>
+</div>
+<div class="sect3">
+<h4 id="_mac_osx">3.1.3. Mac OSX</h4>
+<div class="paragraph"><p>On Mac, you can install all of the necessary requirements using
+<a href="http://http://brew.sh/">HomeBrew</a>. On the command line, type the
+following command:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ brew install pkg-config cmake libpng freeimage lua qt \
+  docbook asciidoc graphviz doxygen</code></pre>
+</div></div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_compiling_the_code">3.2. Compiling the code</h3>
+<div class="paragraph"><p>The compilation of ARGoS is configured through CMake.</p></div>
+<div class="sect3">
+<h4 id="_fast_compilation_instructions">3.2.1. Fast compilation instructions</h4>
+<div class="sect4">
+<h5 id="_compiling_the_argos_simulator">Compiling the ARGoS simulator</h5>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3
+$ mkdir build_simulator
+$ cd build_simulator
+$ cmake ../src
+$ make</code></pre>
+</div></div>
+</div>
+<div class="sect4">
+<h5 id="_compiling_argos_for_a_robot">Compiling ARGoS for a robot</h5>
+<div class="paragraph"><p>DO NOT EXECUTE THESE COMMANDS IF YOU ARE INSTALLING ARGOS ON YOUR LAPTOP. THESE COMMANDS ARE MEANT TO INSTALL ARGOS ON A REAL ROBOT.</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3
+$ mkdir build_myrobot
+$ cd build_myrobot
+$ cmake -DARGOS_BUILD_FOR=myrobot ../src
+$ make</code></pre>
+</div></div>
+</div>
+<div class="sect4">
+<h5 id="_compiling_the_documentation">Compiling the documentation</h5>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3
+$ cd build_simulator # or 'cd build_myrobot'
+$ make doc</code></pre>
+</div></div>
+</div>
+<div class="sect4">
+<h5 id="_argos_sources_under_eclipse">ARGoS sources under Eclipse</h5>
+<div class="paragraph"><p>To use Eclipse with the ARGoS sources, you must have the
+<a href="http://www.eclipse.org/cdt/">CDT</a> installed. Optionally, you can also
+install <a href="http://cmakeed.sourceforge.net/">CMakeEd</a> to modify the
+<code>CMakeLists.txt</code> files comfortably within Eclipse.</p></div>
+<div class="paragraph"><p>To configure the ARGoS sources for Eclipse, it is better to avoid
+compiling the code in a separate build directory (for more details, see
+<a href="http://www.vtk.org/Wiki/Eclipse_CDT4_Generator#Out-Of-Source_Builds">here</a>).
+Thus, execute CMake as follows:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3
+$ cmake -G "Eclipse CDT4 - Unix Makefiles" src/</code></pre>
+</div></div>
+<div class="paragraph"><p>Now open Eclipse. Click on <em>File</em> &#8594; <em>Import&#8230;</em>, select
+<em>Existing project into workspace</em>, and click on <em>Next</em>. Set the base <code>argos3</code>
+directory as the root directory in the dialog that appears. Click on <em>Next</em>
+and you&#8217;re ready to go.</p></div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_advanced_compilation_configuration">3.2.2. Advanced compilation configuration</h4>
+<div class="paragraph"><p>The compilation of ARGoS can be configured through a set of CMake options:</p></div>
+<div class="tableblock">
+<table rules="all"
+width="100%"
+frame="border"
+cellspacing="0" cellpadding="4">
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+<thead>
+<tr>
+<th align="left" valign="top"> Variable                 </th>
+<th align="left" valign="top"> Type      </th>
+<th align="left" valign="top"> Meaning [default value]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" valign="top"><p class="table"><code>CMAKE_BUILD_TYPE</code></p></td>
+<td align="left" valign="top"><p class="table"><em>STRING</em></p></td>
+<td align="left" valign="top"><p class="table">Build type (<code>Debug</code>, <code>Release</code>, etc.) [empty]</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table"><code>CMAKE_INSTALL_PREFIX</code></p></td>
+<td align="left" valign="top"><p class="table"><em>STRING</em></p></td>
+<td align="left" valign="top"><p class="table">Install prefix (<code>/usr</code>, <code>/usr/local</code>, etc.) [<code>/usr/local</code>]</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table"><code>ARGOS_BUILD_FOR</code></p></td>
+<td align="left" valign="top"><p class="table"><em>STRING</em></p></td>
+<td align="left" valign="top"><p class="table">Target of compilation (<code>simulator</code> or robot name) [<code>simulator</code>]</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table"><code>ARGOS_BUILD_NATIVE</code></p></td>
+<td align="left" valign="top"><p class="table"><em>BOOLEAN</em></p></td>
+<td align="left" valign="top"><p class="table">Whether to use platform-specific instructions [<code>OFF</code>]</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table"><code>ARGOS_THREADSAFE_LOG</code></p></td>
+<td align="left" valign="top"><p class="table"><em>BOOLEAN</em></p></td>
+<td align="left" valign="top"><p class="table">Use or not the thread-safe version of <code>LOG</code>/<code>LOGERR</code>. [<code>ON</code>]</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table"><code>ARGOS_DYNAMIC_LOADING</code></p></td>
+<td align="left" valign="top"><p class="table"><em>BOOLEAN</em></p></td>
+<td align="left" valign="top"><p class="table">Compile (and use) dynamic loading facilities [<code>ON</code>]</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table"><code>ARGOS_USE_DOUBLE</code></p></td>
+<td align="left" valign="top"><p class="table"><em>BOOLEAN</em></p></td>
+<td align="left" valign="top"><p class="table">Use <code>double</code> (<code>ON</code>) or <code>float</code> (<code>OFF</code>) [<code>ON</code>]</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table"><code>ARGOS_DOCUMENTATION</code></p></td>
+<td align="left" valign="top"><p class="table"><em>BOOLEAN</em></p></td>
+<td align="left" valign="top"><p class="table">Create API documentation [<code>ON</code>]</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table"><code>ARGOS_INSTALL_LDSOCONF</code></p></td>
+<td align="left" valign="top"><p class="table"><em>BOOLEAN</em></p></td>
+<td align="left" valign="top"><p class="table">Install the file <code>/etc/ld.so.conf/argos3.conf</code> [<code>ON</code> on Linux, <code>OFF</code> on Mac]</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="paragraph"><p>You can pass the wanted values from the command line. For instance, if you
+wanted to set explictly all the default values, when compiling on Linux you would write:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3/build_simulator
+$ cmake -DCMAKE_BUILD_TYPE=Debug \
+        -DCMAKE_INSTALL_PREFIX=/usr/local \
+        -DARGOS_BUILD_FOR=simulator \
+        -DARGOS_BUILD_NATIVE=OFF \
+        -DARGOS_THREADSAFE_LOG=ON \
+        -DARGOS_DYNAMIC_LOADING=ON \
+        -DARGOS_USE_DOUBLE=ON \
+        -DARGOS_DOCUMENTATION=ON \
+        -DARGOS_INSTALL_LDSOCONF=ON \
+        ../src</code></pre>
+</div></div>
+<div class="admonitionblock">
+<table><tr>
+<td class="icon">
+<div class="title">Important</div>
+</td>
+<td class="content">When <code>ARGOS_BUILD_FOR</code> is set to <code>simulator</code>, <code>ARGOS_THREADSAFE_LOG</code>
+           and <code>ARGOS_DYNAMIC_LOADING</code> must be ON.</td>
+</tr></table>
+</div>
+<div class="admonitionblock">
+<table><tr>
+<td class="icon">
+<div class="title">Important</div>
+</td>
+<td class="content">If you want to install ARGoS without root privileges, remember to set
+           <code>ARGOS_INSTALL_LDSOCONF</code> to <code>OFF</code>. Otherwise, installation will fail
+           midway.</td>
+</tr></table>
+</div>
+<div class="admonitionblock">
+<table><tr>
+<td class="icon">
+<div class="title">Tip</div>
+</td>
+<td class="content">For production environments, it is recommended to compile ARGoS with
+     <code>CMAKE_BUILD_TYPE</code> set to <code>Release</code>. If you want to debug ARGoS, it is
+     recommended to set <code>CMAKE_BUILD_TYPE</code> to <code>Debug</code>. The other standard
+     settings (empty and <code>RelWithDebInfo</code>) are supported but should be avoided.</td>
+</tr></table>
+</div>
+<div class="admonitionblock">
+<table><tr>
+<td class="icon">
+<div class="title">Tip</div>
+</td>
+<td class="content">If you want to squeeze maximum performance from ARGoS, along with compiling
+     with <code>CMAKE_BUILD_TYPE</code> set to <code>Release</code>, you can also set <code>ARGOS_BUILD_NATIVE</code>
+     to <code>ON</code>. This setting instructs the compiler to use the compiler flags
+     <code>-march=native</code> and <code>-mtune=native</code>. The code will run faster because you
+     use the entire instruction set of your processor, but the generated binaries
+     won&#8217;t be portable to computers with different processors.</td>
+</tr></table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_using_the_argos_simulator_from_the_source_tree">4. Using the ARGoS simulator from the source tree</h2>
+<div class="sectionbody">
+<div class="admonitionblock">
+<table><tr>
+<td class="icon">
+<div class="title">Important</div>
+</td>
+<td class="content">You can&#8217;t install ARGoS system-wide and run the source version at the same time.
+           If you intend to run ARGoS from the sources, you must uninstall it from the
+           system.</td>
+</tr></table>
+</div>
+<div class="sect2">
+<h3 id="_running_the_argos_simulator">4.1. Running the ARGoS simulator</h3>
+<div class="paragraph"><p>If you don&#8217;t want to install ARGoS on your system, you can run it from the sources
+tree. In the directory <code>build_simulator/</code> you&#8217;ll find a bash script called
+<code>setup_env.sh</code>. Executing this script, you configure the current environment to
+run ARGoS:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3
+$ cd build_simulator
+$ . setup_env.sh     # or 'source setup_env.sh'
+$ cd core
+$ ./argos3 -q all    # this shows all the plugins recognized by ARGoS</code></pre>
+</div></div>
+<div class="paragraph"><p>If you execute ARGoS with the graphical visualization, you&#8217;ll notice that
+icons, models, and textures are missing. This is normal, as ARGoS by default
+looks for them in the default install location. To fix this, you need to edit
+the default settings of the GUI.</p></div>
+<div class="paragraph"><p>On Linux, edit the file <code>$HOME/.config/Iridia-ULB/ARGoS.conf</code> as follows:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>[MainWindow]
+#
+# other stuff
+#
+icon_dir=/PATH/TO/argos3/src/plugins/simulator/visualizations/qt-opengl/icons/
+texture_dir=/PATH/TO/argos3/src/plugins/simulator/visualizations/qt-opengl/textures/
+model_dir=/PATH/TO/argos3/src/plugins/simulator/visualizations/qt-opengl/models/
+#
+# more stuff
+#</code></pre>
+</div></div>
+<div class="paragraph"><p>On Mac, write the following commands on the terminal window to fix the paths manually:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ defaults write info.argos-sim.ARGoS MainWindow.texture_dir -string "/PATH/TO/argos3/src/plugins/simulator/visualizations/qt-opengl/textures/"
+$ defaults write info.argos-sim.ARGoS MainWindow.model_dir -string "/PATH/TO/argos3/src/plugins/simulator/visualizations/qt-opengl/models/"
+$ defaults write info.argos-sim.ARGoS MainWindow.icon_dir -string "/PATH/TO/argos3/src/plugins/simulator/visualizations/qt-opengl/icons/"
+$ killall -u YOURUSERNAME cfprefsd</code></pre>
+</div></div>
+<div class="paragraph"><p>or use these commands to delete these paths and have ARGoS look for them:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ defaults write info.argos-sim.ARGoS
+$ killall -u YOURUSERNAME cfprefsd</code></pre>
+</div></div>
+<div class="paragraph"><p>Be sure to substitute <code>/PATH/TO/</code> with the correct path that contains the <code>argos3</code>
+folder, and <code>YOURUSERNAME</code> with your username as displayed on the terminal.</p></div>
+</div>
+<div class="sect2">
+<h3 id="_debugging_the_argos_simulator">4.2. Debugging the ARGoS simulator</h3>
+<div class="paragraph"><p>You can debug the ARGoS code using <code>gdb</code>. Since the code in scattered across multiple
+directories, you need a <code>.gdbinit</code> file. Luckily for you, this file is created
+automatically when you compile ARGoS. To use it, you just need to remember to
+run the ARGoS simulator from the <code>build_simulator/core/</code> directory:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3/build_simulator/core
+$ gdb ./argos3</code></pre>
+</div></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_installing_argos_from_the_compiled_binaries">5. Installing ARGoS from the compiled binaries</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>To install ARGoS after having compiled the sources, it is enough to write:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3
+$ cd build_simulator # or 'cd build_myrobot'
+$ make doc           # documentation is required!
+$ sudo make install</code></pre>
+</div></div>
+<div class="paragraph"><p>Alternatively, one can create a package. To build all the packages supported by
+your system, run these commands:</p></div>
+<div class="literalblock">
+<div class="content">
+<pre><code>$ cd argos3
+$ git tag -a X.Y.Z-release # give the package a unique version
+                           # the format must be as shown
+                           # X       = version major
+                           # Y       = version minor
+                           # Z       = version patch
+                           # release = a textual label
+$ cd build_simulator       # or 'cd build_myrobot'
+$ cmake .                  # let CMake read the newly set tag
+$ make doc                 # documentation is required!
+$ make                     # compile the code
+$ sudo make package        # make the package</code></pre>
+</div></div>
+<div class="paragraph"><p>This typically creates a self-extracting .tar.gz archive, a .tar.bz2 archive,
+a .zip archive, and a platform-specific archive (.deb, .rpm, or a MacOSX
+package). You can determine which packages to create by setting the variables
+<code>CPACK_BINARY_DEB</code>, <code>CPACK_BINARY_RPM</code>, <code>CPACK_BINARY_STGZ</code>,
+<code>CPACK_BINARY_TBZ2</code>, <code>CPACK_BINARY_TGZ</code>, <code>CPACK_BINARY_TZ</code>.</p></div>
+<div class="admonitionblock">
+<table><tr>
+<td class="icon">
+<div class="title">Important</div>
+</td>
+<td class="content">the creation of source packages through the command
+           <code>make package_source</code> is not supported.</td>
+</tr></table>
+</div>
+<div class="paragraph"><p>An easier option is to install ARGoS from a package distributed at
+<a href="http://www.argos-sim.info/download.php">http://www.argos-sim.info/download.php</a>.</p></div>
+</div>
+</div>
+</div>
+<div id="footnotes"><hr /></div>
+<div id="footer">
+<div id="footer-text">
+Last updated
+ 2024-10-10 00:06:52 CDT
+</div>
+</div>
+</body>
+</html>

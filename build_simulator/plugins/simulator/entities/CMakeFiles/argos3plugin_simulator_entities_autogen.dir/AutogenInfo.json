@@ -1,0 +1,339 @@
+{
+	"BUILD_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/entities/argos3plugin_simulator_entities_autogen",
+	"CMAKE_BINARY_DIR" : "/home/amealmazan/src/argos3/build_simulator",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/entities",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/amealmazan/src/argos3/src/plugins/simulator/entities",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/amealmazan/src/argos3/src/plugins/simulator/entities/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/amealmazan/src/argos3/src",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/battery_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_battery_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/box_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_box_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/cylinder_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_cylinder_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/directional_led_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_directional_led_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/directional_led_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_directional_led_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/gripper_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_gripper_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/ground_sensor_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_ground_sensor_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/led_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_led_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/led_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_led_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/light_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_light_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/light_sensor_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_light_sensor_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/magnet_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_magnet_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/magnet_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_magnet_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/omnidirectional_camera_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_omnidirectional_camera_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/perspective_camera_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_perspective_camera_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/proximity_sensor_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_proximity_sensor_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/quadrotor_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_quadrotor_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/rab_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_rab_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/rotor_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_rotor_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/simple_radio_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_simple_radio_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/simple_radio_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_simple_radio_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/tag_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_tag_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/tag_equipped_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_tag_equipped_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/wheeled_entity.h",
+			"Mu",
+			"EWIEGA46WW/moc_wheeled_entity.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/entities/argos3plugin_simulator_entities_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/entities/argos3plugin_simulator_entities_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"ARGOS_simulator_BUILD",
+		"GL_SILENCE_DEPRECATION",
+		"HAVE_PTHREAD_H",
+		"argos3plugin_simulator_entities_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/amealmazan/src/argos3/build_simulator/plugins/simulator/entities",
+		"/home/amealmazan/src/argos3/src/plugins/simulator/entities",
+		"/home/amealmazan/src/argos3/src",
+		"/home/amealmazan/src/argos3/build_simulator",
+		"/usr/include/lua5.3",
+		"/usr/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/entities/argos3plugin_simulator_entities_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/entities/CMakeFiles/argos3plugin_simulator_entities_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/simulator/entities/CMakeFiles/argos3plugin_simulator_entities_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/battery_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/box_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/cylinder_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/directional_led_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/directional_led_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/gripper_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/ground_sensor_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/led_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/led_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/light_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/light_sensor_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/magnet_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/magnet_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/omnidirectional_camera_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/perspective_camera_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/proximity_sensor_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/quadrotor_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/rab_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/rotor_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/simple_radio_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/simple_radio_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/tag_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/tag_equipped_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/simulator/entities/wheeled_entity.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

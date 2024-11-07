@@ -1,0 +1,162 @@
+{
+	"BUILD_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/robots/eye-bot/argos3plugin_simulator_eyebot_autogen",
+	"CMAKE_BINARY_DIR" : "/home/amealmazan/src/argos3/build_simulator",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/robots/eye-bot",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/amealmazan/src/argos3/src/plugins/robots/eye-bot",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/amealmazan/src/argos3/src",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/control_interface/ci_eyebot_light_sensor.h",
+			"Mu",
+			"3MFEH3VTBK/moc_ci_eyebot_light_sensor.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/control_interface/ci_eyebot_proximity_sensor.h",
+			"Mu",
+			"3MFEH3VTBK/moc_ci_eyebot_proximity_sensor.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/eyebot_entity.h",
+			"Mu",
+			"LXGZ3MSUWV/moc_eyebot_entity.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/eyebot_light_rotzonly_sensor.h",
+			"Mu",
+			"LXGZ3MSUWV/moc_eyebot_light_rotzonly_sensor.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/eyebot_proximity_default_sensor.h",
+			"Mu",
+			"LXGZ3MSUWV/moc_eyebot_proximity_default_sensor.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/pointmass3d_eyebot_model.h",
+			"Mu",
+			"LXGZ3MSUWV/moc_pointmass3d_eyebot_model.cpp",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/qtopengl_eyebot.h",
+			"Mu",
+			"LXGZ3MSUWV/moc_qtopengl_eyebot.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/amealmazan/src/argos3/build_simulator/plugins/robots/eye-bot/argos3plugin_simulator_eyebot_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/robots/eye-bot/argos3plugin_simulator_eyebot_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"ARGOS_simulator_BUILD",
+		"GL_SILENCE_DEPRECATION",
+		"HAVE_PTHREAD_H",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"argos3plugin_simulator_eyebot_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/amealmazan/src/argos3/build_simulator/plugins/robots/eye-bot",
+		"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot",
+		"/home/amealmazan/src/argos3/src",
+		"/home/amealmazan/src/argos3/build_simulator",
+		"/usr/include/lua5.3",
+		"/usr/include/Headers",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/robots/eye-bot/argos3plugin_simulator_eyebot_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/robots/eye-bot/CMakeFiles/argos3plugin_simulator_eyebot_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/amealmazan/src/argos3/build_simulator/plugins/robots/eye-bot/CMakeFiles/argos3plugin_simulator_eyebot_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/control_interface/ci_eyebot_light_sensor.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/control_interface/ci_eyebot_proximity_sensor.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/eyebot_entity.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/eyebot_light_rotzonly_sensor.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/eyebot_proximity_default_sensor.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/pointmass3d_eyebot_model.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/amealmazan/src/argos3/src/plugins/robots/eye-bot/simulator/qtopengl_eyebot.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}
