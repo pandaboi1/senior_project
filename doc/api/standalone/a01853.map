@@ -1,0 +1,5 @@
+<map id="argos::CCI_Controller" name="argos::CCI_Controller">
+<area shape="rect" id="node1" title="The basic interface for a robot controller." alt="" coords="21,95,179,121"/>
+<area shape="rect" id="node3" href="$a02326.html" title=" " alt="" coords="19,169,181,196"/>
+<area shape="rect" id="node2" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,5,195,47"/>
+</map>

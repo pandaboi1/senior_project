@@ -1,0 +1,242 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,705,195,747"/>
+<area shape="rect" id="node2" href="$a02002.html" title=" " alt="" coords="283,379,457,420"/>
+<area shape="rect" id="node4" href="$a02002.html" title=" " alt="" coords="283,444,457,485"/>
+<area shape="rect" id="node6" href="$a02002.html" title=" " alt="" coords="257,509,483,551"/>
+<area shape="rect" id="node8" href="$a02002.html" title=" " alt="" coords="266,575,474,616"/>
+<area shape="rect" id="node10" href="$a02002.html" title=" " alt="" coords="251,640,489,681"/>
+<area shape="rect" id="node12" href="$a02002.html" title=" " alt="" coords="255,705,485,747"/>
+<area shape="rect" id="node14" href="$a03338.html" title="The discharge model dictates how the battery discharges over time." alt="" coords="276,803,464,844"/>
+<area shape="rect" id="node18" href="$a01850.html" title="The basic interface for all actuators." alt="" coords="295,1631,445,1658"/>
+<area shape="rect" id="node64" href="$a02822.html" title=" " alt="" coords="243,2497,497,2523"/>
+<area shape="rect" id="node71" href="$a01854.html" title="The basic interface for a robot controller." alt="" coords="291,2757,449,2783"/>
+<area shape="rect" id="node73" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="301,4335,439,4362"/>
+<area shape="rect" id="node150" href="$a01890.html" title="The basic entity type." alt="" coords="313,6609,427,6635"/>
+<area shape="rect" id="node200" href="$a01926.html" title="A set of hook functions to customize an experimental run." alt="" coords="286,4386,454,4413"/>
+<area shape="rect" id="node201" href="$a01930.html" title=" " alt="" coords="306,5653,434,5679"/>
+<area shape="rect" id="node207" href="$a01938.html" title=" " alt="" coords="286,5855,454,5882"/>
+<area shape="rect" id="node211" href="$a02002.html" title="A data structure that contains positional entities." alt="" coords="283,117,457,159"/>
+<area shape="rect" id="node217" href="$a03950.html" title="The QTOpenGL user functions." alt="" coords="252,205,488,231"/>
+<area shape="rect" id="node218" href="$a02054.html" title=" " alt="" coords="313,255,427,282"/>
+<area shape="rect" id="node223" href="$a02106.html" title=" " alt="" coords="291,327,449,354"/>
+<area shape="rect" id="node3" href="$a01990.html" title=" " alt="" coords="608,379,761,420"/>
+<area shape="rect" id="node5" href="$a01990.html" title=" " alt="" coords="608,444,761,485"/>
+<area shape="rect" id="node7" href="$a01990.html" title=" " alt="" coords="597,509,772,551"/>
+<area shape="rect" id="node9" href="$a01990.html" title=" " alt="" coords="606,575,763,616"/>
+<area shape="rect" id="node11" href="$a01990.html" title=" " alt="" coords="591,640,779,681"/>
+<area shape="rect" id="node13" href="$a01990.html" title=" " alt="" coords="595,705,774,747"/>
+<area shape="rect" id="node15" href="$a03346.html" title="A battery discharge model based only on motion." alt="" coords="591,836,779,877"/>
+<area shape="rect" id="node16" href="$a03342.html" title="A battery discharge model based only on time." alt="" coords="591,901,779,943"/>
+<area shape="rect" id="node17" href="$a03350.html" title="A battery discharge model in which the charge decreases with both time and motion." alt="" coords="591,771,779,812"/>
+<area shape="rect" id="node19" href="$a02374.html" title=" " alt="" coords="567,1331,803,1372"/>
+<area shape="rect" id="node21" href="$a02382.html" title=" " alt="" coords="555,1396,814,1437"/>
+<area shape="rect" id="node23" href="$a02390.html" title=" " alt="" coords="587,1461,782,1503"/>
+<area shape="rect" id="node25" href="$a02394.html" title=" " alt="" coords="593,1527,776,1568"/>
+<area shape="rect" id="node27" href="$a02874.html" title=" " alt="" coords="573,1592,796,1633"/>
+<area shape="rect" id="node29" href="$a02886.html" title=" " alt="" coords="585,1657,784,1699"/>
+<area shape="rect" id="node31" href="$a02510.html" title=" " alt="" coords="575,1775,795,1816"/>
+<area shape="rect" id="node33" href="$a02518.html" title=" " alt="" coords="574,1841,795,1867"/>
+<area shape="rect" id="node35" href="$a02678.html" title=" " alt="" coords="583,1892,786,1933"/>
+<area shape="rect" id="node37" href="$a02698.html" title=" " alt="" coords="588,1957,781,1999"/>
+<area shape="rect" id="node39" href="$a02726.html" title=" " alt="" coords="593,2023,776,2064"/>
+<area shape="rect" id="node41" href="$a02890.html" title=" " alt="" coords="585,2089,784,2115"/>
+<area shape="rect" id="node43" href="$a02898.html" title=" " alt="" coords="593,2139,776,2166"/>
+<area shape="rect" id="node45" href="$a02906.html" title=" " alt="" coords="581,2190,788,2217"/>
+<area shape="rect" id="node47" href="$a02914.html" title=" " alt="" coords="589,1265,780,1307"/>
+<area shape="rect" id="node48" href="$a03102.html" title=" " alt="" coords="579,2241,790,2283"/>
+<area shape="rect" id="node50" href="$a03130.html" title=" " alt="" coords="572,2307,797,2334"/>
+<area shape="rect" id="node52" href="$a03222.html" title=" " alt="" coords="587,2359,782,2400"/>
+<area shape="rect" id="node54" href="$a02930.html" title=" " alt="" coords="577,967,793,1008"/>
+<area shape="rect" id="node56" href="$a02934.html" title=" " alt="" coords="583,1032,787,1073"/>
+<area shape="rect" id="node58" href="$a02938.html" title=" " alt="" coords="579,1097,790,1139"/>
+<area shape="rect" id="node60" href="$a02950.html" title=" " alt="" coords="565,1163,804,1190"/>
+<area shape="rect" id="node62" href="$a02966.html" title=" " alt="" coords="595,1214,774,1241"/>
+<area shape="rect" id="node20" href="$a02422.html" title=" " alt="" coords="911,1331,1127,1372"/>
+<area shape="rect" id="node22" href="$a02434.html" title=" " alt="" coords="900,1396,1139,1437"/>
+<area shape="rect" id="node24" href="$a02450.html" title=" " alt="" coords="908,1461,1131,1503"/>
+<area shape="rect" id="node26" href="$a02454.html" title=" " alt="" coords="913,1527,1125,1568"/>
+<area shape="rect" id="node28" href="$a03030.html" title=" " alt="" coords="918,1592,1121,1633"/>
+<area shape="rect" id="node30" href="$a03038.html" title=" " alt="" coords="906,1657,1133,1699"/>
+<area shape="rect" id="node32" href="$a02546.html" title=" " alt="" coords="919,1723,1119,1764"/>
+<area shape="rect" id="node34" href="$a02558.html" title=" " alt="" coords="922,1788,1117,1829"/>
+<area shape="rect" id="node36" href="$a02742.html" title=" " alt="" coords="902,1853,1137,1895"/>
+<area shape="rect" id="node38" href="$a02758.html" title=" " alt="" coords="909,1919,1130,1960"/>
+<area shape="rect" id="node40" href="$a02774.html" title=" " alt="" coords="914,1984,1125,2025"/>
+<area shape="rect" id="node42" href="$a03042.html" title=" " alt="" coords="906,2050,1133,2077"/>
+<area shape="rect" id="node44" href="$a03050.html" title=" " alt="" coords="914,2101,1125,2127"/>
+<area shape="rect" id="node46" href="$a03058.html" title=" " alt="" coords="902,2151,1137,2178"/>
+<area shape="rect" id="node49" href="$a03154.html" title=" " alt="" coords="924,2203,1115,2244"/>
+<area shape="rect" id="node51" href="$a03190.html" title=" " alt="" coords="920,2268,1119,2309"/>
+<area shape="rect" id="node53" href="$a03282.html" title=" " alt="" coords="908,2333,1131,2375"/>
+<area shape="rect" id="node55" href="$a03070.html" title=" " alt="" coords="921,992,1117,1033"/>
+<area shape="rect" id="node57" href="$a03074.html" title=" " alt="" coords="903,1059,1135,1100"/>
+<area shape="rect" id="node59" href="$a03078.html" title=" " alt="" coords="900,1127,1139,1168"/>
+<area shape="rect" id="node61" href="$a03086.html" title=" " alt="" coords="913,1199,1125,1240"/>
+<area shape="rect" id="node63" href="$a03098.html" title=" " alt="" coords="916,1277,1123,1303"/>
+<area shape="rect" id="node65" href="$a02826.html" title=" " alt="" coords="554,2555,815,2596"/>
+<area shape="rect" id="node67" href="$a02834.html" title=" " alt="" coords="549,2620,820,2661"/>
+<area shape="rect" id="node69" href="$a02842.html" title=" " alt="" coords="579,2424,791,2465"/>
+<area shape="rect" id="node66" href="$a02990.html" title="This class provides the most general interface to a camera." alt="" coords="899,2464,1140,2505"/>
+<area shape="rect" id="node68" href="$a02998.html" title="This class provides the most general interface to a camera." alt="" coords="894,2529,1145,2571"/>
+<area shape="rect" id="node70" href="$a03006.html" title="This class provides the most general interface to a camera." alt="" coords="895,2399,1143,2440"/>
+<area shape="rect" id="node72" href="$a02326.html" title=" " alt="" coords="603,2941,766,2967"/>
+<area shape="rect" id="node74" href="$a02802.html" title=" " alt="" coords="589,5459,780,5486"/>
+<area shape="rect" id="node75" href="$a02806.html" title=" " alt="" coords="591,3351,778,3378"/>
+<area shape="rect" id="node77" href="$a02366.html" title=" " alt="" coords="577,3157,792,3199"/>
+<area shape="rect" id="node79" href="$a02378.html" title=" " alt="" coords="567,3403,803,3444"/>
+<area shape="rect" id="node81" href="$a02386.html" title=" " alt="" coords="555,3468,814,3509"/>
+<area shape="rect" id="node83" href="$a02398.html" title=" " alt="" coords="593,3533,776,3575"/>
+<area shape="rect" id="node85" href="$a02402.html" title=" " alt="" coords="561,3599,809,3640"/>
+<area shape="rect" id="node87" href="$a02410.html" title=" " alt="" coords="579,3664,791,3705"/>
+<area shape="rect" id="node89" href="$a02814.html" title=" " alt="" coords="589,3730,780,3757"/>
+<area shape="rect" id="node91" href="$a02850.html" title="This class provides the most general interface to a camera." alt="" coords="545,3781,824,3823"/>
+<area shape="rect" id="node93" href="$a02862.html" title="This class provides the most general interface to a camera." alt="" coords="559,3847,810,3888"/>
+<area shape="rect" id="node95" href="$a02878.html" title=" " alt="" coords="573,3912,796,3953"/>
+<area shape="rect" id="node97" href="$a02498.html" title=" " alt="" coords="564,3977,805,4019"/>
+<area shape="rect" id="node99" href="$a02514.html" title=" " alt="" coords="575,4043,795,4084"/>
+<area shape="rect" id="node101" href="$a02522.html" title=" " alt="" coords="575,5328,794,5369"/>
+<area shape="rect" id="node102" href="$a02530.html" title=" " alt="" coords="571,4109,798,4135"/>
+<area shape="rect" id="node104" href="$a02586.html" title=" " alt="" coords="586,4160,783,4201"/>
+<area shape="rect" id="node106" href="$a02622.html" title=" " alt="" coords="576,4226,793,4253"/>
+<area shape="rect" id="node108" href="$a02630.html" title=" " alt="" coords="583,4328,787,4369"/>
+<area shape="rect" id="node110" href="$a02670.html" title=" " alt="" coords="573,4393,797,4435"/>
+<area shape="rect" id="node112" href="$a02682.html" title=" " alt="" coords="583,4459,786,4500"/>
+<area shape="rect" id="node114" href="$a02690.html" title=" " alt="" coords="586,5393,783,5435"/>
+<area shape="rect" id="node115" href="$a02702.html" title=" " alt="" coords="574,4525,795,4551"/>
+<area shape="rect" id="node117" href="$a02710.html" title=" " alt="" coords="569,4576,800,4617"/>
+<area shape="rect" id="node119" href="$a02718.html" title=" " alt="" coords="581,4641,789,4683"/>
+<area shape="rect" id="node121" href="$a02730.html" title=" " alt="" coords="593,4707,776,4748"/>
+<area shape="rect" id="node123" href="$a02894.html" title=" " alt="" coords="591,4773,778,4799"/>
+<area shape="rect" id="node125" href="$a02902.html" title=" " alt="" coords="599,4823,770,4850"/>
+<area shape="rect" id="node127" href="$a03106.html" title=" " alt="" coords="579,4875,790,4916"/>
+<area shape="rect" id="node129" href="$a03110.html" title=" " alt="" coords="573,3225,796,3267"/>
+<area shape="rect" id="node131" href="$a03118.html" title=" " alt="" coords="570,4941,799,4967"/>
+<area shape="rect" id="node133" href="$a03126.html" title=" " alt="" coords="581,4991,788,5018"/>
+<area shape="rect" id="node135" href="$a03134.html" title=" " alt="" coords="573,5043,796,5084"/>
+<area shape="rect" id="node137" href="$a03142.html" title=" " alt="" coords="569,5109,800,5135"/>
+<area shape="rect" id="node139" href="$a02918.html" title=" " alt="" coords="579,5159,790,5186"/>
+<area shape="rect" id="node141" href="$a03230.html" title=" " alt="" coords="587,5211,782,5252"/>
+<area shape="rect" id="node143" href="$a02926.html" title=" " alt="" coords="583,5277,786,5303"/>
+<area shape="rect" id="node146" href="$a02942.html" title=" " alt="" coords="579,5511,790,5552"/>
+<area shape="rect" id="node148" href="$a02958.html" title=" " alt="" coords="571,3297,799,3323"/>
+<area shape="rect" id="node76" href="$a02970.html" title=" " alt="" coords="912,3351,1127,3378"/>
+<area shape="rect" id="node78" href="$a02414.html" title=" " alt="" coords="922,3155,1117,3196"/>
+<area shape="rect" id="node80" href="$a02426.html" title=" " alt="" coords="911,3403,1127,3444"/>
+<area shape="rect" id="node82" href="$a02438.html" title=" " alt="" coords="900,3468,1139,3509"/>
+<area shape="rect" id="node84" href="$a02458.html" title=" " alt="" coords="913,3533,1125,3575"/>
+<area shape="rect" id="node86" href="$a02466.html" title=" " alt="" coords="905,3599,1133,3640"/>
+<area shape="rect" id="node88" href="$a02474.html" title=" " alt="" coords="923,3664,1115,3705"/>
+<area shape="rect" id="node90" href="$a02974.html" title=" " alt="" coords="910,3730,1129,3757"/>
+<area shape="rect" id="node92" href="$a03018.html" title=" " alt="" coords="890,3781,1149,3823"/>
+<area shape="rect" id="node94" href="$a03026.html" title=" " alt="" coords="904,3847,1135,3888"/>
+<area shape="rect" id="node96" href="$a03034.html" title=" " alt="" coords="918,3912,1121,3953"/>
+<area shape="rect" id="node98" href="$a02534.html" title=" " alt="" coords="909,3977,1130,4019"/>
+<area shape="rect" id="node100" href="$a02550.html" title=" " alt="" coords="919,4043,1119,4084"/>
+<area shape="rect" id="node103" href="$a02562.html" title=" " alt="" coords="914,4108,1125,4149"/>
+<area shape="rect" id="node105" href="$a02606.html" title=" " alt="" coords="907,4173,1132,4215"/>
+<area shape="rect" id="node107" href="$a02642.html" title=" " alt="" coords="912,4239,1127,4280"/>
+<area shape="rect" id="node109" href="$a02650.html" title=" " alt="" coords="903,4304,1135,4345"/>
+<area shape="rect" id="node111" href="$a02738.html" title=" " alt="" coords="917,4369,1121,4411"/>
+<area shape="rect" id="node113" href="$a02750.html" title=" " alt="" coords="902,4435,1137,4476"/>
+<area shape="rect" id="node116" href="$a02762.html" title=" " alt="" coords="910,4500,1129,4541"/>
+<area shape="rect" id="node118" href="$a02766.html" title=" " alt="" coords="914,4565,1125,4607"/>
+<area shape="rect" id="node120" href="$a02770.html" title=" " alt="" coords="925,4631,1113,4672"/>
+<area shape="rect" id="node122" href="$a02778.html" title=" " alt="" coords="912,4696,1127,4737"/>
+<area shape="rect" id="node124" href="$a03046.html" title=" " alt="" coords="906,4762,1133,4789"/>
+<area shape="rect" id="node126" href="$a03054.html" title=" " alt="" coords="920,4813,1119,4839"/>
+<area shape="rect" id="node128" href="$a03158.html" title=" " alt="" coords="924,4864,1115,4905"/>
+<area shape="rect" id="node130" href="$a03170.html" title=" " alt="" coords="918,3220,1121,3261"/>
+<area shape="rect" id="node132" href="$a03178.html" title=" " alt="" coords="913,4929,1126,4971"/>
+<area shape="rect" id="node134" href="$a03186.html" title=" " alt="" coords="924,4995,1115,5036"/>
+<area shape="rect" id="node136" href="$a03194.html" title=" " alt="" coords="918,5060,1121,5101"/>
+<area shape="rect" id="node138" href="$a03202.html" title=" " alt="" coords="912,5125,1127,5167"/>
+<area shape="rect" id="node140" href="$a03062.html" title=" " alt="" coords="922,5191,1117,5232"/>
+<area shape="rect" id="node142" href="$a03290.html" title=" " alt="" coords="908,5256,1131,5297"/>
+<area shape="rect" id="node144" href="$a03066.html" title=" " alt="" coords="926,5321,1113,5363"/>
+<area shape="rect" id="node145" href="$a02646.html" title=" " alt="" coords="1215,5329,1425,5355"/>
+<area shape="rect" id="node147" href="$a03082.html" title=" " alt="" coords="897,5449,1141,5491"/>
+<area shape="rect" id="node149" href="$a03094.html" title=" " alt="" coords="913,3285,1125,3327"/>
+<area shape="rect" id="node151" href="$a03334.html" title="The battery entity." alt="" coords="574,6083,795,6110"/>
+<area shape="rect" id="node152" href="$a02430.html" title=" " alt="" coords="577,6135,793,6176"/>
+<area shape="rect" id="node153" href="$a02442.html" title=" " alt="" coords="565,6200,804,6241"/>
+<area shape="rect" id="node154" href="$a02462.html" title=" " alt="" coords="579,6265,791,6307"/>
+<area shape="rect" id="node155" href="$a01874.html" title="Basic class for an entity that contains other entities." alt="" coords="587,6331,782,6358"/>
+<area shape="rect" id="node175" href="$a01878.html" title="An entity that contains a pointer to the user&#45;defined controller." alt="" coords="589,6382,781,6409"/>
+<area shape="rect" id="node176" href="$a02554.html" title=" " alt="" coords="585,6433,785,6475"/>
+<area shape="rect" id="node177" href="$a01882.html" title="This entity is a link to a body in the physics engine." alt="" coords="595,6499,774,6526"/>
+<area shape="rect" id="node178" href="$a01914.html" title=" " alt="" coords="611,6550,758,6577"/>
+<area shape="rect" id="node179" href="$a02746.html" title=" " alt="" coords="567,6601,802,6643"/>
+<area shape="rect" id="node180" href="$a02782.html" title=" " alt="" coords="585,6667,785,6694"/>
+<area shape="rect" id="node181" href="$a03390.html" title="An entity that stores the state of a robot gripper." alt="" coords="574,6718,795,6745"/>
+<area shape="rect" id="node182" href="$a03394.html" title=" " alt="" coords="571,6769,798,6811"/>
+<area shape="rect" id="node183" href="$a03434.html" title=" " alt="" coords="579,6835,790,6876"/>
+<area shape="rect" id="node184" href="$a03442.html" title=" " alt="" coords="603,6901,766,6927"/>
+<area shape="rect" id="node185" href="$a03454.html" title=" " alt="" coords="569,6952,800,6993"/>
+<area shape="rect" id="node186" href="$a03458.html" title=" " alt="" coords="583,7017,786,7059"/>
+<area shape="rect" id="node187" href="$a03162.html" title=" " alt="" coords="589,7083,780,7124"/>
+<area shape="rect" id="node188" href="$a01922.html" title=" " alt="" coords="596,7149,773,7175"/>
+<area shape="rect" id="node195" href="$a03298.html" title=" " alt="" coords="583,7199,786,7226"/>
+<area shape="rect" id="node196" href="$a03462.html" title=" " alt="" coords="563,7251,806,7292"/>
+<area shape="rect" id="node197" href="$a03470.html" title=" " alt="" coords="593,7317,776,7343"/>
+<area shape="rect" id="node198" href="$a03506.html" title=" " alt="" coords="581,5982,789,6009"/>
+<area shape="rect" id="node199" href="$a03566.html" title=" " alt="" coords="599,6033,770,6059"/>
+<area shape="rect" id="node156" href="$a02346.html" title=" " alt="" coords="945,6011,1094,6038"/>
+<area shape="rect" id="node157" href="$a03354.html" title=" " alt="" coords="950,6062,1089,6089"/>
+<area shape="rect" id="node158" href="$a02446.html" title=" " alt="" coords="929,6113,1110,6139"/>
+<area shape="rect" id="node159" href="$a03358.html" title=" " alt="" coords="936,6163,1103,6190"/>
+<area shape="rect" id="node160" href="$a03382.html" title="A container of CDirectionalLEDEntity." alt="" coords="904,6215,1135,6256"/>
+<area shape="rect" id="node161" href="$a02542.html" title=" " alt="" coords="943,6281,1095,6307"/>
+<area shape="rect" id="node162" href="$a02602.html" title=" " alt="" coords="943,6331,1095,6358"/>
+<area shape="rect" id="node163" href="$a02638.html" title=" " alt="" coords="940,6382,1099,6409"/>
+<area shape="rect" id="node164" href="$a02754.html" title=" " alt="" coords="938,6433,1101,6459"/>
+<area shape="rect" id="node165" href="$a03422.html" title="A container of CLEDEntity." alt="" coords="920,6483,1119,6510"/>
+<area shape="rect" id="node166" href="$a03446.html" title="A container of CMagnetEntity." alt="" coords="908,6534,1131,6561"/>
+<area shape="rect" id="node167" href="$a03166.html" title=" " alt="" coords="941,6585,1097,6611"/>
+<area shape="rect" id="node168" href="$a03258.html" title=" " alt="" coords="931,6635,1107,6662"/>
+<area shape="rect" id="node169" href="$a03262.html" title=" " alt="" coords="917,6686,1122,6713"/>
+<area shape="rect" id="node170" href="$a03278.html" title=" " alt="" coords="906,6737,1133,6779"/>
+<area shape="rect" id="node171" href="$a03302.html" title=" " alt="" coords="907,6803,1132,6844"/>
+<area shape="rect" id="node172" href="$a03530.html" title="A container of CSimpleRadioEntity." alt="" coords="911,5844,1128,5885"/>
+<area shape="rect" id="node173" href="$a03330.html" title=" " alt="" coords="948,5910,1091,5937"/>
+<area shape="rect" id="node174" href="$a03558.html" title="A container of CTagEntity." alt="" coords="922,5961,1117,5987"/>
+<area shape="rect" id="node189" href="$a03370.html" title=" " alt="" coords="915,7250,1124,7277"/>
+<area shape="rect" id="node190" href="$a03410.html" title=" " alt="" coords="950,7047,1089,7074"/>
+<area shape="rect" id="node192" href="$a03490.html" title=" " alt="" coords="919,7098,1119,7125"/>
+<area shape="rect" id="node193" href="$a03518.html" title=" " alt="" coords="922,7149,1117,7175"/>
+<area shape="rect" id="node194" href="$a03546.html" title=" " alt="" coords="952,7199,1087,7226"/>
+<area shape="rect" id="node191" href="$a03430.html" title=" " alt="" coords="1247,7047,1393,7074"/>
+<area shape="rect" id="node202" href="$a03570.html" title=" " alt="" coords="573,5627,797,5654"/>
+<area shape="rect" id="node203" href="$a03574.html" title=" " alt="" coords="608,5678,761,5705"/>
+<area shape="rect" id="node204" href="$a03578.html" title=" " alt="" coords="607,5729,762,5755"/>
+<area shape="rect" id="node205" href="$a03582.html" title=" " alt="" coords="579,5779,790,5806"/>
+<area shape="rect" id="node206" href="$a03586.html" title=" " alt="" coords="609,5577,760,5603"/>
+<area shape="rect" id="node208" href="$a03610.html" title=" " alt="" coords="583,5881,786,5907"/>
+<area shape="rect" id="node209" href="$a03666.html" title=" " alt="" coords="583,5931,786,5958"/>
+<area shape="rect" id="node210" href="$a03794.html" title=" " alt="" coords="583,5830,787,5857"/>
+<area shape="rect" id="node212" href="$a02010.html" title="The abstract definition of a space hash." alt="" coords="584,59,785,100"/>
+<area shape="rect" id="node216" href="$a01990.html" title=" " alt="" coords="595,125,774,151"/>
+<area shape="rect" id="node213" href="$a02018.html" title=" " alt="" coords="940,5,1099,47"/>
+<area shape="rect" id="node215" href="$a02018.html" title="Defines the basic space hash." alt="" coords="940,71,1099,112"/>
+<area shape="rect" id="node214" href="$a02022.html" title="A space hash implementation that does not rely on std::map or std::tr1:unordered_map." alt="" coords="1225,5,1415,47"/>
+<area shape="rect" id="node219" href="$a02070.html" title="Base class for common threading functionality used by CSpaceMultithreadBalanceLength,..." alt="" coords="589,175,781,202"/>
+<area shape="rect" id="node222" href="$a02098.html" title=" " alt="" coords="593,226,777,253"/>
+<area shape="rect" id="node220" href="$a02078.html" title=" " alt="" coords="923,157,1115,199"/>
+<area shape="rect" id="node221" href="$a02090.html" title=" " alt="" coords="923,223,1115,264"/>
+<area shape="rect" id="node224" href="$a02102.html" title=" " alt="" coords="581,277,788,303"/>
+<area shape="rect" id="node225" href="$a03946.html" title=" " alt="" coords="589,327,780,354"/>
+<area shape="rect" id="node226" href="$a02986.html" title=" " alt="" coords="561,2685,808,2727"/>
+<area shape="rect" id="node227" href="$a02994.html" title=" " alt="" coords="872,2660,1167,2701"/>
+<area shape="rect" id="node228" href="$a03002.html" title=" " alt="" coords="894,2725,1145,2767"/>
+<area shape="rect" id="node229" href="$a03010.html" title=" " alt="" coords="895,2595,1143,2636"/>
+<area shape="rect" id="node230" href="$a02982.html" title=" " alt="" coords="567,2489,803,2531"/>
+<area shape="rect" id="node231" href="$a02006.html" title="The operation to perform on each entity found in range." alt="" coords="595,2875,774,2916"/>
+<area shape="rect" id="node232" href="$a03418.html" title=" " alt="" coords="911,2907,1128,2934"/>
+<area shape="rect" id="node233" href="$a03014.html" title=" " alt="" coords="904,2959,1135,3000"/>
+<area shape="rect" id="node234" href="$a03022.html" title=" " alt="" coords="918,3024,1121,3065"/>
+<area shape="rect" id="node235" href="$a03502.html" title=" " alt="" coords="919,3089,1119,3131"/>
+<area shape="rect" id="node236" href="$a03526.html" title=" " alt="" coords="922,2791,1117,2832"/>
+<area shape="rect" id="node237" href="$a03554.html" title=" " alt="" coords="912,2857,1127,2883"/>
+<area shape="rect" id="node238" href="$a01866.html" title="The basic interface for a simulated actuator." alt="" coords="587,1723,783,1750"/>
+<area shape="rect" id="node239" href="$a01982.html" title="The basic interface for a simulated sensor." alt="" coords="592,4277,777,4303"/>
+<area shape="rect" id="node240" href="$a02302.html" title=" " alt="" coords="13,6601,187,6643"/>
+</map>

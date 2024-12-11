@@ -1,0 +1,25 @@
+<map id="argos::CComposableEntity" name="argos::CComposableEntity">
+<area shape="rect" id="node1" title="Basic class for an entity that contains other entities." alt="" coords="404,477,599,504"/>
+<area shape="rect" id="node5" href="$a02346.html" title=" " alt="" coords="687,5,837,32"/>
+<area shape="rect" id="node6" href="$a03354.html" title=" " alt="" coords="693,56,831,83"/>
+<area shape="rect" id="node7" href="$a02446.html" title=" " alt="" coords="671,107,853,133"/>
+<area shape="rect" id="node8" href="$a03358.html" title=" " alt="" coords="679,157,845,184"/>
+<area shape="rect" id="node9" href="$a03382.html" title="A container of CDirectionalLEDEntity." alt="" coords="647,209,877,250"/>
+<area shape="rect" id="node10" href="$a02542.html" title=" " alt="" coords="686,275,838,301"/>
+<area shape="rect" id="node11" href="$a02602.html" title=" " alt="" coords="686,325,838,352"/>
+<area shape="rect" id="node12" href="$a02638.html" title=" " alt="" coords="683,376,841,403"/>
+<area shape="rect" id="node13" href="$a02754.html" title=" " alt="" coords="681,427,843,453"/>
+<area shape="rect" id="node14" href="$a03422.html" title="A container of CLEDEntity." alt="" coords="663,477,861,504"/>
+<area shape="rect" id="node15" href="$a03446.html" title="A container of CMagnetEntity." alt="" coords="651,528,873,555"/>
+<area shape="rect" id="node16" href="$a03166.html" title=" " alt="" coords="684,579,840,605"/>
+<area shape="rect" id="node17" href="$a03258.html" title=" " alt="" coords="674,629,850,656"/>
+<area shape="rect" id="node18" href="$a03262.html" title=" " alt="" coords="659,680,865,707"/>
+<area shape="rect" id="node19" href="$a03278.html" title=" " alt="" coords="649,731,875,773"/>
+<area shape="rect" id="node20" href="$a03302.html" title=" " alt="" coords="649,797,875,838"/>
+<area shape="rect" id="node21" href="$a03530.html" title="A container of CSimpleRadioEntity." alt="" coords="653,862,871,903"/>
+<area shape="rect" id="node22" href="$a03330.html" title=" " alt="" coords="691,928,833,955"/>
+<area shape="rect" id="node23" href="$a03558.html" title="A container of CTagEntity." alt="" coords="665,979,859,1005"/>
+<area shape="rect" id="node2" href="$a01890.html" title="The basic entity type." alt="" coords="243,477,356,504"/>
+<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,437,195,478"/>
+<area shape="rect" id="node4" href="$a02302.html" title=" " alt="" coords="13,502,187,543"/>
+</map>

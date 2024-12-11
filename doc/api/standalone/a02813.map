@@ -1,0 +1,6 @@
+<map id="argos::CCI_CameraSensor" name="argos::CCI_CameraSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="19,169,210,196"/>
+<area shape="rect" id="node4" href="$a02974.html" title=" " alt="" coords="5,244,224,271"/>
+<area shape="rect" id="node2" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="45,95,184,121"/>
+<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="20,5,209,47"/>
+</map>

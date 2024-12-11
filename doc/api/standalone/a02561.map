@@ -1,0 +1,7 @@
+<map id="argos::CDroneSystemDefaultSensor" name="argos::CDroneSystemDefaultSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="107,244,318,285"/>
+<area shape="rect" id="node2" href="$a01982.html" title="The basic interface for a simulated sensor." alt="" coords="5,169,191,196"/>
+<area shape="rect" id="node3" href="$a02530.html" title=" " alt="" coords="215,169,442,196"/>
+<area shape="rect" id="node4" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="259,95,398,121"/>
+<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="234,5,423,47"/>
+</map>

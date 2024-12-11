@@ -1,0 +1,7 @@
+<map id="argos::CFootBotTurretDefaultActuator" name="argos::CFootBotTurretDefaultActuator">
+<area shape="rect" id="node1" title=" " alt="" coords="105,259,315,300"/>
+<area shape="rect" id="node2" href="$a01866.html" title="The basic interface for a simulated actuator." alt="" coords="5,177,201,203"/>
+<area shape="rect" id="node3" href="$a02726.html" title=" " alt="" coords="225,169,408,211"/>
+<area shape="rect" id="node4" href="$a01850.html" title="The basic interface for all actuators." alt="" coords="241,95,392,121"/>
+<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="222,5,411,47"/>
+</map>

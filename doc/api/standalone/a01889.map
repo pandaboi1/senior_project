@@ -1,0 +1,51 @@
+<map id="argos::CEntity" name="argos::CEntity">
+<area shape="rect" id="node1" title="The basic entity type." alt="" coords="243,893,356,920"/>
+<area shape="rect" id="node4" href="$a03334.html" title="The battery entity." alt="" coords="415,229,636,256"/>
+<area shape="rect" id="node5" href="$a02430.html" title=" " alt="" coords="417,281,633,322"/>
+<area shape="rect" id="node6" href="$a02442.html" title=" " alt="" coords="406,346,645,387"/>
+<area shape="rect" id="node7" href="$a02462.html" title=" " alt="" coords="419,411,631,453"/>
+<area shape="rect" id="node8" href="$a01874.html" title="Basic class for an entity that contains other entities." alt="" coords="428,477,623,504"/>
+<area shape="rect" id="node28" href="$a01878.html" title="An entity that contains a pointer to the user&#45;defined controller." alt="" coords="429,528,621,555"/>
+<area shape="rect" id="node29" href="$a02554.html" title=" " alt="" coords="425,579,625,621"/>
+<area shape="rect" id="node30" href="$a01882.html" title="This entity is a link to a body in the physics engine." alt="" coords="436,645,615,672"/>
+<area shape="rect" id="node31" href="$a01914.html" title=" " alt="" coords="452,696,599,723"/>
+<area shape="rect" id="node32" href="$a02746.html" title=" " alt="" coords="408,747,643,789"/>
+<area shape="rect" id="node33" href="$a02782.html" title=" " alt="" coords="425,813,625,840"/>
+<area shape="rect" id="node34" href="$a03390.html" title="An entity that stores the state of a robot gripper." alt="" coords="415,864,636,891"/>
+<area shape="rect" id="node35" href="$a03394.html" title=" " alt="" coords="412,915,639,957"/>
+<area shape="rect" id="node36" href="$a03434.html" title=" " alt="" coords="420,981,631,1022"/>
+<area shape="rect" id="node37" href="$a03442.html" title=" " alt="" coords="444,1047,607,1073"/>
+<area shape="rect" id="node38" href="$a03454.html" title=" " alt="" coords="410,1098,641,1139"/>
+<area shape="rect" id="node39" href="$a03458.html" title=" " alt="" coords="424,1163,627,1205"/>
+<area shape="rect" id="node40" href="$a03162.html" title=" " alt="" coords="430,1229,621,1270"/>
+<area shape="rect" id="node41" href="$a01922.html" title=" " alt="" coords="437,1295,614,1321"/>
+<area shape="rect" id="node45" href="$a03298.html" title=" " alt="" coords="424,1345,627,1372"/>
+<area shape="rect" id="node46" href="$a03462.html" title=" " alt="" coords="404,1397,647,1438"/>
+<area shape="rect" id="node47" href="$a03470.html" title=" " alt="" coords="434,1463,617,1489"/>
+<area shape="rect" id="node48" href="$a03506.html" title=" " alt="" coords="421,1513,629,1540"/>
+<area shape="rect" id="node49" href="$a03566.html" title=" " alt="" coords="440,1564,611,1591"/>
+<area shape="rect" id="node2" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,853,195,894"/>
+<area shape="rect" id="node3" href="$a02302.html" title=" " alt="" coords="13,918,187,959"/>
+<area shape="rect" id="node9" href="$a02346.html" title=" " alt="" coords="735,5,885,32"/>
+<area shape="rect" id="node10" href="$a03354.html" title=" " alt="" coords="741,56,879,83"/>
+<area shape="rect" id="node11" href="$a02446.html" title=" " alt="" coords="719,107,901,133"/>
+<area shape="rect" id="node12" href="$a03358.html" title=" " alt="" coords="727,157,893,184"/>
+<area shape="rect" id="node13" href="$a03382.html" title="A container of CDirectionalLEDEntity." alt="" coords="695,209,925,250"/>
+<area shape="rect" id="node14" href="$a02542.html" title=" " alt="" coords="734,275,886,301"/>
+<area shape="rect" id="node15" href="$a02602.html" title=" " alt="" coords="734,325,886,352"/>
+<area shape="rect" id="node16" href="$a02638.html" title=" " alt="" coords="731,376,889,403"/>
+<area shape="rect" id="node17" href="$a02754.html" title=" " alt="" coords="729,427,891,453"/>
+<area shape="rect" id="node18" href="$a03422.html" title="A container of CLEDEntity." alt="" coords="711,477,909,504"/>
+<area shape="rect" id="node19" href="$a03446.html" title="A container of CMagnetEntity." alt="" coords="699,528,921,555"/>
+<area shape="rect" id="node20" href="$a03166.html" title=" " alt="" coords="732,579,888,605"/>
+<area shape="rect" id="node21" href="$a03258.html" title=" " alt="" coords="722,629,898,656"/>
+<area shape="rect" id="node22" href="$a03262.html" title=" " alt="" coords="707,680,913,707"/>
+<area shape="rect" id="node23" href="$a03278.html" title=" " alt="" coords="697,731,923,773"/>
+<area shape="rect" id="node24" href="$a03302.html" title=" " alt="" coords="697,797,923,838"/>
+<area shape="rect" id="node25" href="$a03530.html" title="A container of CSimpleRadioEntity." alt="" coords="701,862,919,903"/>
+<area shape="rect" id="node26" href="$a03330.html" title=" " alt="" coords="739,928,881,955"/>
+<area shape="rect" id="node27" href="$a03558.html" title="A container of CTagEntity." alt="" coords="713,979,907,1005"/>
+<area shape="rect" id="node42" href="$a03370.html" title=" " alt="" coords="705,1244,915,1271"/>
+<area shape="rect" id="node43" href="$a03410.html" title=" " alt="" coords="741,1295,879,1321"/>
+<area shape="rect" id="node44" href="$a03490.html" title=" " alt="" coords="710,1345,910,1372"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="argos::CCameraSensorLEDDetectorAlgorithm" name="argos::CCameraSensorLEDDetectorAlgorithm">
+<area shape="rect" id="node1" title="This class provides the most general interface to a camera." alt="" coords="864,39,1115,80"/>
+<area shape="rect" id="node2" href="$a02982.html" title=" " alt="" coords="563,5,799,47"/>
+<area shape="rect" id="node3" href="$a02834.html" title=" " alt="" coords="545,71,816,112"/>
+<area shape="rect" id="node4" href="$a02822.html" title=" " alt="" coords="243,78,497,105"/>
+<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,71,195,112"/>
+</map>

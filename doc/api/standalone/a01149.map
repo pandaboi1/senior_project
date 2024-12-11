@@ -1,0 +1,10 @@
+<map id="plugins/robots/generic/simulator/proximity_default_sensor.h" name="plugins/robots/generic/simulator/proximity_default_sensor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="341,5,549,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,124,64,151"/>
+<area shape="rect" id="node3" title=" " alt="" coords="88,124,139,151"/>
+<area shape="rect" id="node4" title=" " alt="" coords="163,109,351,165"/>
+<area shape="rect" id="node5" title=" " alt="" coords="375,117,515,158"/>
+<area shape="rect" id="node6" title=" " alt="" coords="539,117,679,158"/>
+<area shape="rect" id="node7" title=" " alt="" coords="703,117,867,158"/>
+<area shape="rect" id="node8" title=" " alt="" coords="891,117,1055,158"/>
+</map>

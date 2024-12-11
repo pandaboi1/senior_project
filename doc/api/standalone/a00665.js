@@ -1,0 +1,8 @@
+var a00665 =
+[
+    [ "EPUCK_WHEELS", "a00665.html#ad862b3a6442f51e54d77d493d018cdb2", [
+      [ "EPUCK_LEFT_WHEEL", "a00665.html#ad862b3a6442f51e54d77d493d018cdb2ae389d032e781e49498d97807c27076bc", null ],
+      [ "EPUCK_RIGHT_WHEEL", "a00665.html#ad862b3a6442f51e54d77d493d018cdb2aa5069f47f778cdde29855e4e0f116dc8", null ]
+    ] ],
+    [ "REGISTER_STANDARD_DYNAMICS2D_OPERATIONS_ON_ENTITY", "a00665.html#aaab4ae4c40d822c055ac9ea1c6e02da6", null ]
+];

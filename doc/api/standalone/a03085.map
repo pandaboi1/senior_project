@@ -1,0 +1,7 @@
+<map id="argos::CSimpleRadiosDefaultActuator" name="argos::CSimpleRadiosDefaultActuator">
+<area shape="rect" id="node1" title=" " alt="" coords="117,244,329,285"/>
+<area shape="rect" id="node2" href="$a01866.html" title="The basic interface for a simulated actuator." alt="" coords="5,169,201,196"/>
+<area shape="rect" id="node3" href="$a02950.html" title=" " alt="" coords="225,169,464,196"/>
+<area shape="rect" id="node4" href="$a01850.html" title="The basic interface for all actuators." alt="" coords="269,95,420,121"/>
+<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="250,5,439,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="argos::CPhysicsEngine::SVerticalFace" name="argos::CPhysicsEngine::SVerticalFace">
+<area shape="rect" id="node1" title="A boundary face for side parts of the volume." alt="" coords="5,95,173,136"/>
+<area shape="rect" id="node2" href="$a01942.html" title="A boundary face for entity transfer among physics engines." alt="" coords="5,5,173,47"/>
+</map>

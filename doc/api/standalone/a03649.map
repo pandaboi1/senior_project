@@ -1,0 +1,8 @@
+<map id="argos::CDynamics2DStretchableObjectModel" name="argos::CDynamics2DStretchableObjectModel">
+<area shape="rect" id="node1" title="A stretchable and grippable object model for the dynamics 2D engine." alt="" coords="121,244,353,285"/>
+<area shape="rect" id="node5" href="$a03590.html" title=" " alt="" coords="5,341,228,367"/>
+<area shape="rect" id="node6" href="$a03594.html" title=" " alt="" coords="252,333,464,375"/>
+<area shape="rect" id="node2" href="$a03646.html" title="Base class for object models with a single body." alt="" coords="137,155,336,196"/>
+<area shape="rect" id="node3" href="$a03634.html" title="The base class for models in the dynamics 2D engine." alt="" coords="137,80,336,107"/>
+<area shape="rect" id="node4" href="$a01966.html" title=" " alt="" coords="155,5,319,32"/>
+</map>

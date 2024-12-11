@@ -1,0 +1,27 @@
+var a03858 =
+[
+    [ "CQTOpenGLJoystick", "a03858.html#a539b98f993734dfc941ec7cfe1c5924f", null ],
+    [ "~CQTOpenGLJoystick", "a03858.html#acc02231fe0978f62352acfdcf4cab97d", null ],
+    [ "axisValueChanged", "a03858.html#a93f6432db7a741add4ec5c2733839738", null ],
+    [ "buttonValueChanged", "a03858.html#a4fd8c9428abbc1420ca2aa087306e453", null ],
+    [ "close", "a03858.html#a460af67942aebc381ce9f79527c8395e", null ],
+    [ "connected", "a03858.html#a869f90da82a42e4dae55b8733f852eaf", null ],
+    [ "getAxisValue", "a03858.html#af4c5faec0720dae9305997d666bdd7cf", null ],
+    [ "hatValueChanged", "a03858.html#a2b52b0634d6075ac97bf046cf6d7a176", null ],
+    [ "isOpen", "a03858.html#ab04556e0927498732a412a735086bdaf", null ],
+    [ "open", "a03858.html#a17d309bf6adc06e619244d5e451ef8fa", null ],
+    [ "processEvents", "a03858.html#a1b0a27659f6c00095f59e3d35bd5fb54", null ],
+    [ "trackballValueChanged", "a03858.html#a8563a792cf243cc644464e8bd4e41880", null ],
+    [ "autoRepeat", "a03858.html#a4843d1660560395f2efb8f2dbe282f0d", null ],
+    [ "autoRepeatDelay", "a03858.html#a3ce54e2eadd57ddf3c0ef2cbc4349e12", null ],
+    [ "deadzones", "a03858.html#a8d6899cbd4e687c1a9f0ae5c46a1c610", null ],
+    [ "eventTimeout", "a03858.html#a16d343f365f4ccf11be2ee509e168a25", null ],
+    [ "joystick", "a03858.html#af9baace2991fe2c1c3b10ea9f9f7954f", null ],
+    [ "joystickNames", "a03858.html#a4b87a1c104726e5d4ab8b76c35c628ff", null ],
+    [ "joystickTimer", "a03858.html#a76613d7dbe3fdab03de39cd8a6cfe4a8", null ],
+    [ "numAxes", "a03858.html#a79b16feba5cf8db122a84f5b14dc2c1b", null ],
+    [ "numButtons", "a03858.html#a0bb7656f5b400af2702db46d65135aee", null ],
+    [ "numHats", "a03858.html#ae58adbe621778588cebb7ac933d4706b", null ],
+    [ "numTrackballs", "a03858.html#a68a4d899b692b0365478c0602f4efbd1", null ],
+    [ "sensitivities", "a03858.html#aaa715a5b541de9b2c219a9e923cb8a23", null ]
+];

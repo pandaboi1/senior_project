@@ -1,0 +1,9 @@
+<map id="plugins/simulator/entities/led_entity.h" name="plugins/simulator/entities/led_entity.h">
+<area shape="rect" id="node1" title=" " alt="" coords="438,5,626,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,192,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="217,102,357,143"/>
+<area shape="rect" id="node4" title=" " alt="" coords="381,102,521,143"/>
+<area shape="rect" id="node5" title=" " alt="" coords="545,102,685,143"/>
+<area shape="rect" id="node6" title=" " alt="" coords="709,95,894,151"/>
+<area shape="rect" id="node7" title=" " alt="" coords="918,95,1103,151"/>
+</map>

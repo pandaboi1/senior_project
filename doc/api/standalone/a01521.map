@@ -1,0 +1,10 @@
+<map id="plugins/simulator/entities/simple_radio_entity.h" name="plugins/simulator/entities/simple_radio_entity.h">
+<area shape="rect" id="node1" title=" " alt="" coords="538,5,726,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,192,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="217,102,357,143"/>
+<area shape="rect" id="node4" title=" " alt="" coords="381,102,521,143"/>
+<area shape="rect" id="node5" title=" " alt="" coords="545,102,719,143"/>
+<area shape="rect" id="node6" title=" " alt="" coords="743,95,929,151"/>
+<area shape="rect" id="node7" title=" " alt="" coords="953,95,1138,151"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1163,109,1227,136"/>
+</map>

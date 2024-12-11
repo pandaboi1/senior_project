@@ -1,0 +1,7 @@
+<map id="argos::CBuilderBotRangefindersDefaultSensor" name="argos::CBuilderBotRangefindersDefaultSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="104,259,332,300"/>
+<area shape="rect" id="node2" href="$a01982.html" title="The basic interface for a simulated sensor." alt="" coords="5,177,191,203"/>
+<area shape="rect" id="node3" href="$a02402.html" title=" " alt="" coords="215,169,463,211"/>
+<area shape="rect" id="node4" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="270,95,409,121"/>
+<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="245,5,434,47"/>
+</map>

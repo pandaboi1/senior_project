@@ -1,0 +1,5 @@
+var a00515 =
+[
+    [ "REGISTER_ENTITY", "a00515.html#a8b0ed1a2e83b603a76e2c70a6e40d9cf", null ],
+    [ "REGISTER_STANDARD_SPACE_OPERATIONS_ON_COMPOSABLE", "a00515.html#a25120c23c5c7ff28b579e7799491dca2", null ]
+];

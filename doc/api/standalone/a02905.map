@@ -1,0 +1,6 @@
+<map id="argos::CCI_MagnetsActuator" name="argos::CCI_MagnetsActuator">
+<area shape="rect" id="node1" title=" " alt="" coords="19,169,226,196"/>
+<area shape="rect" id="node4" href="$a03058.html" title=" " alt="" coords="5,244,240,271"/>
+<area shape="rect" id="node2" href="$a01850.html" title="The basic interface for all actuators." alt="" coords="47,95,198,121"/>
+<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="28,5,217,47"/>
+</map>
