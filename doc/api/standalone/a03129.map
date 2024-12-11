@@ -1,0 +1,6 @@
+<map id="argos::CCI_PiPuckLEDsActuator" name="argos::CCI_PiPuckLEDsActuator">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,231,196"/>
+<area shape="rect" id="node4" href="$a03190.html" title=" " alt="" coords="19,244,217,285"/>
+<area shape="rect" id="node2" href="$a01850.html" title="The basic interface for all actuators." alt="" coords="43,95,193,121"/>
+<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="23,5,213,47"/>
+</map>

@@ -1,0 +1,10 @@
+var a00509 =
+[
+    [ "CAPACITOR_DISCHARGE_RATE", "a00509.html#a3b151927cd9c97ae15cee58c426bde75", null ],
+    [ "CAPACITOR_MAX_VOLTAGE", "a00509.html#abd2e418f319755286a8bf4d46bd5a6df", null ],
+    [ "CAPACITOR_MIN_VOLTAGE", "a00509.html#a812f7ba3454a255cee52333beccfc8a2", null ],
+    [ "CAPACITOR_RECHARGE_RATE", "a00509.html#a54beee928c1f154975ce60bc16c1d8e9", null ],
+    [ "ELECTROMAGNET_ACTIVE_FIELD", "a00509.html#a1b54864b60cedfe0703a23fcfd4f0704", null ],
+    [ "ELECTROMAGNET_PASSIVE_FIELD", "a00509.html#a4c8dd71cfa3af72ee952ce90fc68d47e", null ],
+    [ "REGISTER_STANDARD_SPACE_OPERATIONS_ON_ENTITY", "a00509.html#a5a48bc7719b4b122e313a7b3b2d95b89", null ]
+];

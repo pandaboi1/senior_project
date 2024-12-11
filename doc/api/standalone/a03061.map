@@ -1,0 +1,7 @@
+<map id="argos::CPositioningDefaultSensor" name="argos::CPositioningDefaultSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="111,244,306,285"/>
+<area shape="rect" id="node2" href="$a01982.html" title="The basic interface for a simulated sensor." alt="" coords="5,169,191,196"/>
+<area shape="rect" id="node3" href="$a02918.html" title=" " alt="" coords="215,169,426,196"/>
+<area shape="rect" id="node4" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="251,95,390,121"/>
+<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="226,5,415,47"/>
+</map>

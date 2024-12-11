@@ -1,0 +1,12 @@
+<map id="argos::CPositionalEntity" name="argos::CPositionalEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="404,107,581,133"/>
+<area shape="rect" id="node5" href="$a03370.html" title=" " alt="" coords="629,5,839,32"/>
+<area shape="rect" id="node6" href="$a03410.html" title=" " alt="" coords="665,56,803,83"/>
+<area shape="rect" id="node8" href="$a03490.html" title=" " alt="" coords="634,107,834,133"/>
+<area shape="rect" id="node9" href="$a03518.html" title=" " alt="" coords="637,157,831,184"/>
+<area shape="rect" id="node10" href="$a03546.html" title=" " alt="" coords="667,208,801,235"/>
+<area shape="rect" id="node2" href="$a01890.html" title="The basic entity type." alt="" coords="243,107,356,133"/>
+<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,66,195,107"/>
+<area shape="rect" id="node4" href="$a02302.html" title=" " alt="" coords="13,131,187,173"/>
+<area shape="rect" id="node7" href="$a03430.html" title=" " alt="" coords="887,56,1032,83"/>
+</map>
