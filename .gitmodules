@@ -1,0 +1,3 @@
+[submodule "footbot_flocking"]
+	path = footbot_flocking
+	url = https://github.com/pandaboi1/footbot_flocking.git
