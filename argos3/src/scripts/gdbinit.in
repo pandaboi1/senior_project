@@ -1,2 +1,0 @@
-set environment ARGOS_PLUGIN_PATH @ARGOS_PLUGIN_PATH@
-set environment LD_LIBRARY_PATH ${ARGOS_PLUGIN_PATH}
