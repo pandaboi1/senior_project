@@ -1,6 +1,0 @@
-<map id="argos::CCI_DroneFlightSystemSensor" name="argos::CCI_DroneFlightSystemSensor">
-<area shape="rect" id="node1" title=" " alt="" coords="5,169,225,211"/>
-<area shape="rect" id="node4" href="$a02550.html" title=" " alt="" coords="15,259,215,300"/>
-<area shape="rect" id="node2" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="46,95,185,121"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="21,5,210,47"/>
-</map>

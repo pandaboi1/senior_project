@@ -1,6 +1,0 @@
-<map id="argos::CCI_RangeAndBearingSensor" name="argos::CCI_RangeAndBearingSensor">
-<area shape="rect" id="node1" title=" " alt="" coords="22,169,233,211"/>
-<area shape="rect" id="node4" href="$a03082.html" title=" " alt="" coords="5,259,249,300"/>
-<area shape="rect" id="node2" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="58,95,197,121"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="33,5,222,47"/>
-</map>

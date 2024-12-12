@@ -1,7 +1,0 @@
-<map id="argos::CTagEntity" name="argos::CTagEntity">
-<area shape="rect" id="node1" title=" " alt="" coords="135,244,270,271"/>
-<area shape="rect" id="node2" href="$a01922.html" title=" " alt="" coords="114,169,291,196"/>
-<area shape="rect" id="node3" href="$a01890.html" title="The basic entity type." alt="" coords="146,95,259,121"/>
-<area shape="rect" id="node4" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,5,195,47"/>
-<area shape="rect" id="node5" href="$a02302.html" title=" " alt="" coords="219,5,392,47"/>
-</map>

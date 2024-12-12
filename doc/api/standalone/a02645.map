@@ -1,8 +1,0 @@
-<map id="argos::CProximitySensorImpl" name="argos::CProximitySensorImpl">
-<area shape="rect" id="node1" title=" " alt="" coords="102,333,313,360"/>
-<area shape="rect" id="node2" href="$a03066.html" title=" " alt="" coords="114,244,301,285"/>
-<area shape="rect" id="node3" href="$a01982.html" title="The basic interface for a simulated sensor." alt="" coords="5,169,191,196"/>
-<area shape="rect" id="node4" href="$a02926.html" title=" " alt="" coords="215,169,418,196"/>
-<area shape="rect" id="node5" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="247,95,386,121"/>
-<area shape="rect" id="node6" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="222,5,411,47"/>
-</map>

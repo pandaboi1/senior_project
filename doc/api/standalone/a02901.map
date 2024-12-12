@@ -1,6 +1,0 @@
-<map id="argos::CCI_LightSensor" name="argos::CCI_LightSensor">
-<area shape="rect" id="node1" title=" " alt="" coords="19,169,190,196"/>
-<area shape="rect" id="node4" href="$a03054.html" title=" " alt="" coords="5,244,204,271"/>
-<area shape="rect" id="node2" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="35,95,174,121"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="10,5,199,47"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="argos::CDynamics2DCylinderModel" name="argos::CDynamics2DCylinderModel">
-<area shape="rect" id="node1" title=" " alt="" coords="15,333,227,375"/>
-<area shape="rect" id="node2" href="$a03650.html" title="A stretchable and grippable object model for the dynamics 2D engine." alt="" coords="5,244,237,285"/>
-<area shape="rect" id="node3" href="$a03646.html" title="Base class for object models with a single body." alt="" coords="22,155,221,196"/>
-<area shape="rect" id="node4" href="$a03634.html" title="The base class for models in the dynamics 2D engine." alt="" coords="22,80,221,107"/>
-<area shape="rect" id="node5" href="$a01966.html" title=" " alt="" coords="39,5,203,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="argos::CSpaceMultiThread" name="argos::CSpaceMultiThread">
-<area shape="rect" id="node1" title="Base class for common threading functionality used by CSpaceMultithreadBalanceLength,..." alt="" coords="113,169,305,196"/>
-<area shape="rect" id="node4" href="$a02078.html" title=" " alt="" coords="5,244,197,285"/>
-<area shape="rect" id="node5" href="$a02090.html" title=" " alt="" coords="221,244,413,285"/>
-<area shape="rect" id="node2" href="$a02054.html" title=" " alt="" coords="152,95,267,121"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="115,5,304,47"/>
-</map>

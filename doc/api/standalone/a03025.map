@@ -1,7 +1,0 @@
-<map id="argos::CColoredBlobPerspectiveCameraDefaultSensor" name="argos::CColoredBlobPerspectiveCameraDefaultSensor">
-<area shape="rect" id="node1" title=" " alt="" coords="137,259,367,300"/>
-<area shape="rect" id="node2" href="$a02862.html" title="This class provides the most general interface to a camera." alt="" coords="5,169,256,211"/>
-<area shape="rect" id="node3" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="61,95,200,121"/>
-<area shape="rect" id="node4" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="36,5,225,47"/>
-<area shape="rect" id="node5" href="$a01982.html" title="The basic interface for a simulated sensor." alt="" coords="281,177,466,203"/>
-</map>

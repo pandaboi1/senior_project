@@ -1,7 +1,0 @@
-<map id="argos::CBuilderBotLEDsDefaultActuator" name="argos::CBuilderBotLEDsDefaultActuator">
-<area shape="rect" id="node1" title=" " alt="" coords="101,259,324,300"/>
-<area shape="rect" id="node2" href="$a01866.html" title="The basic interface for a simulated actuator." alt="" coords="5,177,201,203"/>
-<area shape="rect" id="node3" href="$a02390.html" title=" " alt="" coords="226,169,421,211"/>
-<area shape="rect" id="node4" href="$a01850.html" title="The basic interface for all actuators." alt="" coords="248,95,399,121"/>
-<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="229,5,418,47"/>
-</map>

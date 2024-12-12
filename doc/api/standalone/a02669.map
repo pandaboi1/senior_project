@@ -1,6 +1,0 @@
-<map id="argos::CCI_FootBotBaseGroundSensor" name="argos::CCI_FootBotBaseGroundSensor">
-<area shape="rect" id="node1" title=" " alt="" coords="5,169,229,211"/>
-<area shape="rect" id="node4" href="$a02738.html" title=" " alt="" coords="15,259,219,300"/>
-<area shape="rect" id="node2" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="48,95,187,121"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="23,5,212,47"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="argos::CAbstractSpaceHash&lt; ENTITY &gt;" name="argos::CAbstractSpaceHash&lt; ENTITY &gt;">
-<area shape="rect" id="node1" title="The abstract definition of a space hash." alt="" coords="91,184,292,225"/>
-<area shape="rect" id="node4" href="$a02018.html" title=" " alt="" coords="21,273,180,315"/>
-<area shape="rect" id="node6" href="$a02018.html" title="Defines the basic space hash." alt="" coords="204,273,363,315"/>
-<area shape="rect" id="node2" href="$a02002.html" title="A data structure that contains positional entities." alt="" coords="104,95,279,136"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="97,5,286,47"/>
-<area shape="rect" id="node5" href="$a02022.html" title="A space hash implementation that does not rely on std::map or std::tr1:unordered_map." alt="" coords="5,363,196,404"/>
-</map>

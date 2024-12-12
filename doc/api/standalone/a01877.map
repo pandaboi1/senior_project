@@ -1,6 +1,0 @@
-<map id="argos::CControllableEntity" name="argos::CControllableEntity">
-<area shape="rect" id="node1" title="An entity that contains a pointer to the user&#45;defined controller." alt="" coords="107,169,299,196"/>
-<area shape="rect" id="node2" href="$a01890.html" title="The basic entity type." alt="" coords="146,95,259,121"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,5,195,47"/>
-<area shape="rect" id="node4" href="$a02302.html" title=" " alt="" coords="219,5,392,47"/>
-</map>

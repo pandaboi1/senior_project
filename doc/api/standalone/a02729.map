@@ -1,6 +1,0 @@
-<map id="argos::CCI_FootBotTurretEncoderSensor" name="argos::CCI_FootBotTurretEncoderSensor">
-<area shape="rect" id="node1" title=" " alt="" coords="21,169,204,211"/>
-<area shape="rect" id="node4" href="$a02778.html" title=" " alt="" coords="5,259,220,300"/>
-<area shape="rect" id="node2" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="43,95,182,121"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="18,5,207,47"/>
-</map>

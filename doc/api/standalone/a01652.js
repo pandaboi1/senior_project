@@ -1,4 +1,0 @@
-var a01652 =
-[
-    [ "REGISTER_DYNAMICS3D_PLUGIN", "a01652.html#a11fe609879964deef36c4632348c7cf6", null ]
-];

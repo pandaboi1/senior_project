@@ -1,7 +1,0 @@
-<map id="argos::CBuilderBotDifferentialDriveDefaultActuator" name="argos::CBuilderBotDifferentialDriveDefaultActuator">
-<area shape="rect" id="node1" title=" " alt="" coords="115,259,331,300"/>
-<area shape="rect" id="node2" href="$a01866.html" title="The basic interface for a simulated actuator." alt="" coords="5,177,201,203"/>
-<area shape="rect" id="node3" href="$a02374.html" title=" " alt="" coords="225,169,461,211"/>
-<area shape="rect" id="node4" href="$a01850.html" title="The basic interface for all actuators." alt="" coords="268,95,419,121"/>
-<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="249,5,438,47"/>
-</map>

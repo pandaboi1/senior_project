@@ -1,6 +1,0 @@
-<map id="argos::CCI_PiPuckRangefindersSensor" name="argos::CCI_PiPuckRangefindersSensor">
-<area shape="rect" id="node1" title=" " alt="" coords="5,169,228,211"/>
-<area shape="rect" id="node4" href="$a03194.html" title=" " alt="" coords="15,259,218,300"/>
-<area shape="rect" id="node2" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="47,95,186,121"/>
-<area shape="rect" id="node3" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="22,5,211,47"/>
-</map>

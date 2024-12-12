@@ -1,7 +1,0 @@
-<map id="argos::CDroneLEDsDefaultActuator" name="argos::CDroneLEDsDefaultActuator">
-<area shape="rect" id="node1" title=" " alt="" coords="122,244,317,285"/>
-<area shape="rect" id="node2" href="$a01866.html" title="The basic interface for a simulated actuator." alt="" coords="5,169,201,196"/>
-<area shape="rect" id="node3" href="$a02518.html" title=" " alt="" coords="226,169,447,196"/>
-<area shape="rect" id="node4" href="$a01850.html" title="The basic interface for all actuators." alt="" coords="261,95,412,121"/>
-<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="242,5,431,47"/>
-</map>

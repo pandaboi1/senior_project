@@ -1,8 +1,0 @@
-<map id="argos::CPiPuckFrontCameraDefaultSensor" name="argos::CPiPuckFrontCameraDefaultSensor">
-<area shape="rect" id="node1" title=" " alt="" coords="700,90,903,131"/>
-<area shape="rect" id="node2" href="$a01982.html" title="The basic interface for a simulated sensor." alt="" coords="448,5,633,32"/>
-<area shape="rect" id="node3" href="$a03110.html" title=" " alt="" coords="429,57,652,98"/>
-<area shape="rect" id="node4" href="$a01858.html" title="The basic interface for all sensors." alt="" coords="243,64,381,91"/>
-<area shape="rect" id="node5" href="$a02114.html" title="This class is the base of all XML&#45;configurable ARGoS interface." alt="" coords="5,57,195,98"/>
-<area shape="rect" id="node6" href="$a02006.html" title="The operation to perform on each entity found in range." alt="" coords="451,122,630,163"/>
-</map>

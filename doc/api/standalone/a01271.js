@@ -1,5 +1,0 @@
-var a01271 =
-[
-    [ "REGISTER_ENTITY", "a01271.html#ad98ba5f5c712364df88d9863a16d8999", null ],
-    [ "REGISTER_STANDARD_SPACE_OPERATIONS_ON_COMPOSABLE", "a01271.html#a1c27398de8371befffde59a72010b5ff", null ]
-];
